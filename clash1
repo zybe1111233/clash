@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：2023-04-23 09:18:54
+# 创建时间：2023-04-23 09:21:08
 # 使用模版：V2RaySE 默认模版
-# 节点数量：1
+# 节点数量：231
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -22,6 +22,236 @@ dns:
 
 proxies:
   - {"name":"🇭🇰 [YouTube哈乐a]HK-香港-8-2倍","type":"ssr","server":"bgphk8.vip.conectinnode.info","port":581,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇸🇬 [YouTube哈乐]SGP-新加坡-1-2倍","type":"ssr","server":"relaysgp1.vip.conectinnode.info","port":1501,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇯🇵JP_460","type":"trojan","server":"fscus.fscloud123456789.com","port":443,"udp":true,"password":"adbeb3f5-693f-47d0-aec7-07a90c2095c7","skip-cert-verify":true}
+  - {"name":"🇨🇦CA_268","type":"trojan","server":"51.161.118.38","port":443,"udp":true,"password":"Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8","skip-cert-verify":true}
+  - {"name":"🇹🇼 [YouTube哈乐]TW-台湾-6-2倍","type":"ssr","server":"aiatw6.conectinnode.info","port":1206,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇺🇸US_1175","type":"trojan","server":"scottie.golfland.club","port":443,"udp":true,"password":"ZVqSTHcLasKIKGnzjnr8aHRPATiaTj5U","skip-cert-verify":true}
+  - {"name":"🇹🇼 [YouTube哈乐]TW-台湾-3-2倍","type":"ssr","server":"aiatw3.conectinnode.info","port":1203,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇸🇬 [YouTube哈乐]SGP-新加坡-2-2倍","type":"ssr","server":"relaysgp2.vip.conectinnode.info","port":1502,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇭🇰 [YouTube哈乐a]HK-香港-2-2倍","type":"ssr","server":"bgphk2.vip.conectinnode.info","port":575,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇹🇼 [YouTube哈乐a]TW-台湾-1-2倍","type":"ssr","server":"aiatw1.conectinnode.info","port":1201,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇭🇰 [YouTube哈乐a]HK-香港-4-2倍","type":"ssr","server":"bgphk4.vip.conectinnode.info","port":577,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇭🇰 [YouTube哈乐a]HK-香港-7-2倍","type":"ssr","server":"bgphk7.vip.conectinnode.info","port":580,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇭🇰 [YouTube哈乐a]HK-香港-3-2倍","type":"ssr","server":"bgphk3.vip.conectinnode.info","port":576,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇭🇰 [YouTube哈乐a]HK-香港-6-2倍","type":"ssr","server":"bgphk6.vip.conectinnode.info","port":579,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇹🇼 [YouTube哈乐]TW-台湾-5-2倍","type":"ssr","server":"aiatw5.conectinnode.info","port":1205,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇺🇸US_1187","type":"trojan","server":"184.168.127.50","port":443,"udp":true,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true}
+  - {"name":"🇺🇸US_1186","type":"trojan","server":"184.168.127.50","port":443,"udp":true,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true}
+  - {"name":"🇧🇷 [YouTube哈乐]BR-巴西-1-2倍","type":"ssr","server":"aiashbr1.conectinnode.info","port":1631,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇺🇸US_1190","type":"trojan","server":"184.168.127.50","port":443,"udp":true,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true}
+  - {"name":"🇦🇷 [YouTube哈乐]AR-阿根廷-1-2倍","type":"ssr","server":"aiashar1.conectinnode.info","port":1651,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇦🇷 [YouTube哈乐a]AR-阿根廷-1-2倍","type":"ssr","server":"aiashar1.conectinnode.info","port":1651,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇧🇷 [YouTube哈乐a]BR-巴西-1-2倍","type":"ssr","server":"aiashbr1.conectinnode.info","port":1631,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇹🇼 [YouTube哈乐a]TW-台湾-4-2倍","type":"ssr","server":"aiatw4.conectinnode.info","port":1204,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇹🇼 [YouTube哈乐a]TW-台湾-5-2倍","type":"ssr","server":"aiatw5.conectinnode.info","port":1205,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇹🇼 [YouTube哈乐]TW-台湾-4-2倍","type":"ssr","server":"aiatw4.conectinnode.info","port":1204,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇹🇼 [YouTube哈乐a]TW-台湾-2-2倍","type":"ssr","server":"aiatw2.conectinnode.info","port":1202,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇹🇼 [YouTube哈乐a]TW-台湾-6-2倍","type":"ssr","server":"aiatw6.conectinnode.info","port":1206,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇨🇿CZ_285","type":"trojan","server":"cz.v212.fun","port":443,"udp":true,"password":"9c7a49a2-ddff-4654-925b-baa7913dbc56","skip-cert-verify":true}
+  - {"name":"塞尔维亚","type":"vmess","server":"37.120.193.102","port":49920,"cipher":"auto","uuid":"57170ff0-7180-4664-8f61-8debdda345f7","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇦UA_674","type":"trojan","server":"cz5.v2ce.com","port":443,"udp":true,"password":"HTrovQkamDxNfaD5","skip-cert-verify":true}
+  - {"name":"_180","type":"trojan","server":"iplc.sh.to.us.fp-dns.xyz","port":34437,"udp":true,"password":"f0a9a2e2-0b62-4d46-a97c-c16eb25a88c7","skip-cert-verify":true}
+  - {"name":"🇸🇬 [YouTube哈乐a]SGP-新加坡-1-2倍","type":"ssr","server":"relaysgp1.vip.conectinnode.info","port":1501,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"_134","type":"trojan","server":"unicom.9299.fp-dns.xyz","port":22019,"udp":true,"password":"f0a9a2e2-0b62-4d46-a97c-c16eb25a88c7","skip-cert-verify":true}
+  - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"142.4.114.20","port":34002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇭🇰_HK_香港->🇺🇸_US_美国_1","type":"trojan","server":"iplc.sh.to.us.fp-dns.xyz","port":34438,"udp":true,"password":"f0a9a2e2-0b62-4d46-a97c-c16eb25a88c7","skip-cert-verify":true}
+  - {"name":"v2cross.com_1","type":"trojan","server":"54.37.185.148","port":32894,"udp":true,"password":"HchlVCfnXB","skip-cert-verify":true}
+  - {"name":"🇭🇰_HK_香港->🇺🇸_US_美国_2","type":"trojan","server":"iplc.sh.to.us.fp-dns.xyz","port":34439,"udp":true,"password":"f0a9a2e2-0b62-4d46-a97c-c16eb25a88c7","skip-cert-verify":true}
+  - {"name":"_46","type":"ss","server":"176.126.113.151","port":26623,"password":"pVTWnDrxRjpiGabFDupRJq","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"v2cross.com_2","type":"trojan","server":"195.15.243.26","port":443,"udp":true,"password":"4478","skip-cert-verify":true}
+  - {"name":"_14","type":"ss","server":"37.143.129.230","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb"}
+  - {"name":"🇺🇸US_1153","type":"trojan","server":"t03.ssrsub.com.xyz","port":443,"udp":true,"password":"640e3ef0-9c44-49a8-98f6-0895b11eecd6","skip-cert-verify":true}
+  - {"name":"🇨🇳_CN_中国->🇭🇰_HK_香港_1","type":"ss","server":"iplc.hk.fp-dns.xyz","port":34436,"password":"f0a9a2e2-0b62-4d46-a97c-c16eb25a88c7","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🏁ZZ_1300","type":"trojan","server":"cc.755657.xyz","port":443,"udp":true,"password":"ea635091-5d17-42b9-ad81-d26572a9eea8","skip-cert-verify":true}
+  - {"name":"🏁ZZ_1301","type":"trojan","server":"cc.755657.xyz","port":443,"udp":true,"password":"d8182760-49e8-4e76-abb2-f3ed213f1f7e","skip-cert-verify":true}
+  - {"name":"🇺🇸US_1008","type":"vmess","server":"142.4.112.11","port":51091,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇨🇦CA_238","type":"trojan","server":"sg-3.test3.net","port":443,"udp":true,"password":"275ec150-da51-11ed-893a-1239d0255272","skip-cert-verify":true}
+  - {"name":"美国+V2CROSS.COM","type":"trojan","server":"152.70.74.66","port":443,"udp":true,"password":"d906afe5-7c3c-4ddc-aaa4-61c154a82e5e","skip-cert-verify":false}
+  - {"name":"🇺🇸US_1170","type":"trojan","server":"fscsg.fscloud123456789.com","port":443,"udp":true,"password":"38541d74-6ffd-4352-988d-715ee989947c","skip-cert-verify":true}
+  - {"name":"🏁ZZ_1302","type":"trojan","server":"cc.755657.xyz","port":443,"udp":true,"password":"046c4ca7-9c88-4ad5-92e8-591723b52b25","skip-cert-verify":true}
+  - {"name":"🇺🇸US_1051","type":"vmess","server":"108.186.5.22","port":59010,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸US_1030","type":"vmess","server":"198.2.203.54","port":44002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"v2cross.com_3","type":"vmess","server":"23.224.15.180","port":50002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🏁ZZ_1299","type":"trojan","server":"cc.755657.xyz","port":443,"udp":true,"password":"fb19aac3-b532-4f60-a97f-ec5de0fbbf6b","skip-cert-verify":true}
+  - {"name":"🇺🇸US_1048","type":"vmess","server":"137.175.18.89","port":42002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国_2","type":"vmess","server":"45.131.229.59","port":41602,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸US_1022","type":"vmess","server":"137.175.3.230","port":53002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸US_1159","type":"trojan","server":"jp.mjt001.com","port":443,"udp":true,"password":"b00ac480-3e34-4ca9-8b3b-0b4515e4b75d","skip-cert-verify":true}
+  - {"name":"v2cross.com_4","type":"ss","server":"167.88.63.79","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
+  - {"name":"🇨🇳_CN_电报频道： @pjrjzy_1","type":"vmess","server":"112.132.215.189","port":50002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸US_970","type":"vmess","server":"171.22.134.28","port":53433,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸US_1023","type":"vmess","server":"142.4.126.58","port":33302,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国_3","type":"vmess","server":"64.32.4.59","port":42175,"cipher":"auto","uuid":"8653004f-de67-44c2-9cce-e0830933fb03","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇷🇺 [YouTube哈乐a]RU-俄罗斯-1-2倍","type":"ssr","server":"aiaru1.conectinnode.info","port":1601,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇺🇸US_979","type":"vmess","server":"198.2.205.68","port":30402,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸US_1024","type":"vmess","server":"192.74.231.176","port":49202,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国_4","type":"vmess","server":"140.99.149.45","port":56882,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸US_1137","type":"vmess","server":"192.74.231.174","port":49202,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_电报频道： @pjrjzy_1","type":"vmess","server":"171.22.134.28","port":53433,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"v2cross.com_5","type":"vmess","server":"198.2.205.70","port":30402,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸US_994","type":"vmess","server":"137.175.1.6","port":53003,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸US_1052","type":"vmess","server":"107.148.195.23","port":50014,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸US_1083","type":"vmess","server":"142.0.132.38","port":50015,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇷🇺 [YouTube哈乐]RU-俄罗斯-1-2倍","type":"ssr","server":"aiaru1.conectinnode.info","port":1601,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇹🇷 [YouTube哈乐a]TR-土耳其-1-2倍","type":"ssr","server":"relaytr1.vip.conectinnode.info","port":1561,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇺🇸US_1179","type":"trojan","server":"fschk.fscloud123456789.com","port":443,"udp":true,"password":"38541d74-6ffd-4352-988d-715ee989947c","skip-cert-verify":true}
+  - {"name":"🇺🇸US_989","type":"vmess","server":"198.2.203.57","port":44002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"v2cross.com_6","type":"vmess","server":"192.74.228.171","port":42857,"cipher":"auto","uuid":"051b844f-efe3-4847-92aa-66b5de0b6d4e","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇹🇷 [YouTube哈乐]TR-土耳其-1-2倍","type":"ssr","server":"relaytr1.vip.conectinnode.info","port":1561,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇺🇸_US_美国_5","type":"vmess","server":"142.4.118.253","port":57402,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸US_1049","type":"vmess","server":"107.148.195.21","port":50014,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"v2cross.com_7","type":"ss","server":"167.88.63.79","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸_US_美国_6","type":"vmess","server":"198.2.205.74","port":30402,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸US_1062","type":"vmess","server":"45.131.229.59","port":41602,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"v2cross.com_8","type":"vmess","server":"137.175.18.89","port":42002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸US_1033","type":"vmess","server":"38.40.158.245","port":45002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"v2cross.com_9","type":"ss","server":"167.88.63.79","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸US_1039","type":"vmess","server":"142.0.132.42","port":50015,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国_7","type":"vmess","server":"142.4.125.53","port":50044,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"v2cross.com_10","type":"ss","server":"catlog.flareai.science","port":15543,"password":"d5dd371c-11db-4cfb-b458-072f0fbd0e18","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸US_1037","type":"vmess","server":"108.186.5.8","port":59010,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸US_1063","type":"vmess","server":"142.4.114.20","port":34002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"v2cross.com_11","type":"vmess","server":"142.4.101.166","port":59022,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国_8","type":"vmess","server":"142.4.104.215","port":50302,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"v2cross.com_12","type":"vmess","server":"38.54.250.55","port":51431,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇨🇳CN_282","type":"trojan","server":"js04.balala2016.xyz","port":20261,"udp":true,"password":"ED177480-E516-11EA-8B44-BBC4E882BA0B","skip-cert-verify":true}
+  - {"name":"_192","type":"trojan","server":"insaneguo2333.top","port":443,"udp":true,"password":"40fd551a-0bbe-460d-b0d9-4bf4ad413b0f","skip-cert-verify":true}
+  - {"name":"🇺🇸US_1164","type":"trojan","server":"fscsg.fscloud123456789.com","port":443,"udp":true,"password":"ed19b239-8e49-4b82-979a-24b84fa7b173","skip-cert-verify":true}
+  - {"name":"🇺🇸US_1032","type":"vmess","server":"38.54.250.55","port":51431,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国_9","type":"vmess","server":"142.4.126.59","port":33302,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸US_1125","type":"vmess","server":"198.2.205.66","port":30402,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国_10","type":"vmess","server":"192.74.232.251","port":51802,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"v2cross.com_13","type":"vmess","server":"192.74.231.174","port":49202,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇷🇺+RU_633","type":"trojan","server":"insaneguo2333.top","port":443,"udp":true,"password":"1d0a80ca-0f96-4016-ac51-c284dedd28a1","skip-cert-verify":true}
+  - {"name":"🇺🇸US_1025","type":"vmess","server":"142.0.141.172","port":42129,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"日本东京C","type":"vmess","server":"185.160.24.17","port":44102,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸US_997","type":"vmess","server":"198.2.212.244","port":50002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"v2cross.com_14","type":"trojan","server":"azhj.xifasd.top","port":20767,"udp":true,"password":"c39d5e05-3d06-317e-b5ca-e2f71b661570","sni":"ssl.ssl12.xyz","skip-cert-verify":true}
+  - {"name":"🇺🇸US_995","type":"vmess","server":"142.4.121.252","port":45409,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇨🇳_CN_电报频道： @pjrjzy_2","type":"vmess","server":"36.134.16.171","port":11023,"cipher":"auto","uuid":"8c042a38-71c1-1dcb-00df-54880236e0dc","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇫🇷 [YouTube哈乐]FR-法国-1-2倍","type":"ssr","server":"aiabjfr1.conectinnode.info","port":1461,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇳🇱NL_613","type":"vmess","server":"45.86.11.147","port":39182,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"美国 V2CROSS.COM","type":"vmess","server":"108.186.5.10","port":59010,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸US_1009","type":"vmess","server":"74.217.179.155","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/path/1682080378523","headers":{"host":"www.43752841.xyz"}}}
+  - {"name":"🇺🇸_US_美国_11","type":"vmess","server":"192.74.242.153","port":44667,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇲 [YouTube哈乐]US-美国-3-2倍","type":"ssr","server":"relayus3.vip.conectinnode.info","port":1403,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇺🇸US_1080","type":"vmess","server":"137.175.69.228","port":44920,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"_91","type":"vmess","server":"137.175.18.87","port":42002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇩🇪 [YouTube哈乐a]DE-德国-1-2倍","type":"ssr","server":"aiade1.vip.conectinnode.info","port":1621,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇺🇲 [YouTube哈乐]US-美国-2-2倍","type":"ssr","server":"relayus2.vip.conectinnode.info","port":1402,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇺🇸US_998","type":"vmess","server":"171.22.134.30","port":53433,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国_12","type":"vmess","server":"198.2.212.244","port":50002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇲 [YouTube哈乐]US-美国-1-2倍","type":"ssr","server":"relayus1.vip.conectinnode.info","port":1401,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇺🇲 [YouTube哈乐a]US-美国-4-2倍","type":"ssr","server":"relayus4.vip.conectinnode.info","port":1404,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇰🇷 [YouTube哈乐a]KR-韩国-1-2倍","type":"ssr","server":"qdcukr1.vip.conectinnode.info","port":1551,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"_151","type":"trojan","server":"fc.hk03.fp-dns.xyz","port":2087,"udp":true,"password":"f0a9a2e2-0b62-4d46-a97c-c16eb25a88c7","skip-cert-verify":true}
+  - {"name":"_31","type":"ss","server":"36.137.106.45","port":11023,"password":"ll668668@","cipher":"aes-256-gcm"}
+  - {"name":"🇰🇷 [YouTube哈乐a]KR-韩国-2-2倍","type":"ssr","server":"shkr2.vip.conectinnode.info","port":1552,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇯🇵_JP_jichangvpn.cloud","type":"trojan","server":"fschk.fscloud123456789.com","port":443,"udp":true,"password":"2e31a75e-ce52-4d2c-95e1-41c8acdbc80c","skip-cert-verify":true}
+  - {"name":"_55","type":"ss","server":"223.109.67.28","port":652,"password":"a2f3e987-f987-4bee-9b7c-e85f18c77580","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸_US_美国_13","type":"vmess","server":"142.4.127.5","port":53013,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇫🇷 [YouTube哈乐a]FR-法国-1-2倍","type":"ssr","server":"aiabjfr1.conectinnode.info","port":1461,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"中国-2.37MB/s(Youtube:不良林)","type":"vmess","server":"120.240.163.51","port":53173,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国_14","type":"vmess","server":"172.67.217.222","port":80,"cipher":"auto","uuid":"2e496758-950e-4549-8842-d5eec98d9fde","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"dp3.scproxy.top"}}}
+  - {"name":"_69","type":"vmess","server":"192.74.232.247","port":51802,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇲 [YouTube哈乐a]US-美国-2-2倍","type":"ssr","server":"relayus2.vip.conectinnode.info","port":1402,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇵🇭 [YouTube哈乐]PH-菲律宾-1-2倍","type":"ssr","server":"aiaph1.conectinnode.info","port":1641,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"_49","type":"ss","server":"157.90.4.240","port":19488,"password":"e8301e5bd3","cipher":"aes-256-cfb"}
+  - {"name":"🇺🇲 [YouTube哈乐a]US-美国-3-2倍","type":"ssr","server":"relayus3.vip.conectinnode.info","port":1403,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇺🇲 [YouTube哈乐a]US-美国-1-2倍","type":"ssr","server":"relayus1.vip.conectinnode.info","port":1401,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇨🇳CN_284","type":"trojan","server":"jp08a.roc-taiwan.org.ua","port":65018,"udp":true,"password":"96983eb4-c8f1-316e-ab00-500014ed3d8b","skip-cert-verify":true}
+  - {"name":"🇭🇰HK_433","type":"vmess","server":"156.245.8.224","port":49924,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"_73","type":"vmess","server":"142.4.127.4","port":53013,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇨🇳CN_277","type":"ss","server":"36.138.193.128","port":11023,"password":"ll668668@","cipher":"aes-256-gcm"}
+  - {"name":"v2cross.com_15","type":"vmess","server":"51.195.35.147","port":58812,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇫🇷FR_401","type":"vmess","server":"51.195.35.147","port":58812,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"v2cross.com_16","type":"vmess","server":"156.245.8.66","port":49519,"cipher":"auto","uuid":"5a4d69ad-20a9-4941-b223-87bbd09f5f52","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_电报频道： @pjrjzy_2","type":"vmess","server":"cf-lt.sharecentre.online","port":80,"cipher":"auto","uuid":"2e496758-950e-4549-8842-d5eec98d9fde","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"dp2.scproxy.top"}}}
+  - {"name":"v2cross.com_17","type":"ss","server":"piniasg01.abbblog.xyz","port":37908,"password":"6652a517-36da-4db4-9607-326c2db9aa70","cipher":"aes-128-gcm"}
+  - {"name":"🇭🇰HK_435","type":"vmess","server":"156.245.8.66","port":49519,"cipher":"auto","uuid":"5a4d69ad-20a9-4941-b223-87bbd09f5f52","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"_64","type":"ss","server":"223.111.114.234","port":590,"password":"a2f3e987-f987-4bee-9b7c-e85f18c77580","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸_US_美国_15","type":"vmess","server":"172.67.250.239","port":80,"cipher":"auto","uuid":"2e496758-950e-4549-8842-d5eec98d9fde","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"dp2.scproxy.top"}}}
+  - {"name":"🇦🇺AU_205","type":"vmess","server":"43.154.76.92","port":25034,"cipher":"auto","uuid":"784272d2-bd2d-438a-bbd4-1271bb1f1b0d","alterId":64,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/hk15/getData"}}
+  - {"name":"🇺🇸US_1172","type":"trojan","server":"sfo.iqmtp.live","port":443,"udp":true,"password":"3628ca8d-6371-45df-879c-2d3e5d110b51","skip-cert-verify":true}
+  - {"name":"🇵🇭 [YouTube哈乐a]PH-菲律宾-1-2倍","type":"ssr","server":"aiaph1.conectinnode.info","port":1641,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇿🇦ZA_1203","type":"vmess","server":"156.225.67.157","port":38348,"cipher":"auto","uuid":"9c026efe-6af0-465f-b8c0-3f58c8c2d4c5","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"_155","type":"trojan","server":"unicom.9299.fp-dns.xyz","port":22020,"udp":true,"password":"f0a9a2e2-0b62-4d46-a97c-c16eb25a88c7","skip-cert-verify":true}
+  - {"name":"🇨🇳_CN_电报频道： @pjrjzy_3","type":"vmess","server":"36.134.16.96","port":11023,"cipher":"auto","uuid":"8c042a38-71c1-1dcb-00df-54880236e0dc","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"_88","type":"vmess","server":"123.249.101.15","port":19709,"cipher":"auto","uuid":"2f278a45-940a-46c1-c886-77f3b2d33987","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":""}}
+  - {"name":"🇺🇸US_1191","type":"trojan","server":"tw.softbank.mjj-home.com","port":443,"udp":true,"password":"share.mjj-home.com","skip-cert-verify":true}
+  - {"name":"🇹🇼TW_673","type":"trojan","server":"tw01.balala2016.xyz","port":20261,"udp":true,"password":"ED177480-E516-11EA-8B44-BBC4E882BA0B","skip-cert-verify":true}
+  - {"name":"🇯🇵 [YouTube哈乐]JP-日本-1-2倍","type":"ssr","server":"relayjp1.vip.conectinnode.info","port":1451,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇨🇳_CN_中国->🇭🇰_HK_香港_2","type":"ss","server":"iplc.hk.fp-dns.xyz","port":34435,"password":"f0a9a2e2-0b62-4d46-a97c-c16eb25a88c7","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇨🇦CA_258","type":"trojan","server":"cat-1.opensvr.net","port":443,"udp":true,"password":"opentunnel.net-wd3dzt4j9yoy","skip-cert-verify":true}
+  - {"name":"🇯🇵 [YouTube哈乐]JP-日本-3-2倍","type":"ssr","server":"relayjp3.vip.conectinnode.info","port":1453,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇻🇳 [YouTube哈乐a]VN-越南-1-2倍","type":"ssr","server":"aiavnd1.vip.conectinnode.info","port":1611,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇯🇵 [YouTube哈乐]JP-日本-2-2倍","type":"ssr","server":"relayjp2.vip.conectinnode.info","port":1452,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇭🇰_HK_香港","type":"trojan","server":"fc.hk04.fp-dns.xyz","port":2096,"udp":true,"password":"f0a9a2e2-0b62-4d46-a97c-c16eb25a88c7","skip-cert-verify":true}
+  - {"name":"v2cross.com_18","type":"vmess","server":"data-hk-v1.shwjfkw.cn","port":50207,"cipher":"auto","uuid":"b1478e24-4916-3abe-8f17-15931012ecbe","alterId":1,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/hls/cctv5phd.m3u8","headers":{"host":"YTB-awkj"}}}
+  - {"name":"🇯🇵 [YouTube哈乐a]JP-日本-3-2倍","type":"ssr","server":"relayjp3.vip.conectinnode.info","port":1453,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇯🇵 [YouTube哈乐a]JP-日本-1-2倍","type":"ssr","server":"relayjp1.vip.conectinnode.info","port":1451,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇯🇵 [YouTube哈乐]JP-日本-4-2倍","type":"ssr","server":"relayjp4.vip.conectinnode.info","port":1454,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇫🇷FR_402","type":"trojan","server":"ukt-2.opensvr.net","port":443,"udp":true,"password":"opentunnel.net-rw8uuv207taq","skip-cert-verify":true}
+  - {"name":"🇸🇬SG_661","type":"trojan","server":"hk31.ssgnode.ga","port":443,"udp":true,"password":"41742_920c8caa","skip-cert-verify":true}
+  - {"name":"🇯🇵 [YouTube哈乐a]JP-日本-2-2倍","type":"ssr","server":"relayjp2.vip.conectinnode.info","port":1452,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇯🇵 [YouTube哈乐a]JP-日本-4-2倍","type":"ssr","server":"relayjp4.vip.conectinnode.info","port":1454,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇺🇸_US_美国_16","type":"vmess","server":"108.186.192.249","port":35502,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国->🇬🇧_GB_英国_1","type":"vmess","server":"172.64.201.226","port":80,"cipher":"auto","uuid":"2e496758-950e-4549-8842-d5eec98d9fde","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"uk1.scproxy.top"}}}
+  - {"name":"🇺🇸_US_美国->🇬🇧_GB_英国_2","type":"vmess","server":"172.67.84.93","port":80,"cipher":"auto","uuid":"2e496758-950e-4549-8842-d5eec98d9fde","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"uk1.scproxy.top"}}}
+  - {"name":"🇸🇬SG_663","type":"trojan","server":"18.141.8.87","port":443,"udp":true,"password":"iyinglong","skip-cert-verify":true}
+  - {"name":"🇺🇸_US_美国->🇬🇧_GB_英国_3","type":"vmess","server":"172.67.98.34","port":80,"cipher":"auto","uuid":"2e496758-950e-4549-8842-d5eec98d9fde","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"uk1.scproxy.top"}}}
+  - {"name":"🇺🇸US_1185","type":"trojan","server":"share.softbank.mjj-home.com","port":443,"udp":true,"password":"share.mjj-home.com","skip-cert-verify":true}
+  - {"name":"🇭🇰HK_442","type":"trojan","server":"ru.mjt001.com","port":443,"udp":true,"password":"5a035db3-34ea-48ca-9aa2-72c8229e1532","skip-cert-verify":true}
+  - {"name":"🇺🇸_US_电报频道： @pjrjzy_3","type":"vmess","server":"cf-lt.sharecentre.online","port":80,"cipher":"auto","uuid":"2e496758-950e-4549-8842-d5eec98d9fde","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"uk1.scproxy.top"}}}
+  - {"name":"🇨🇳CN_280","type":"vmess","server":"112.132.215.189","port":50002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇨🇳_CN_电报频道： @pjrjzy_4","type":"vmess","server":"36.133.171.209","port":11023,"cipher":"auto","uuid":"8c042a38-71c1-1dcb-00df-54880236e0dc","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"_97","type":"vmess","server":"47.104.237.32","port":50002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸US_1157","type":"trojan","server":"pt.mjt001.com","port":443,"udp":true,"password":"b00ac480-3e34-4ca9-8b3b-0b4515e4b75d","skip-cert-verify":true}
+  - {"name":"🇨🇳_CN_电报频道： @pjrjzy_5","type":"vmess","server":"36.134.16.190","port":11023,"cipher":"auto","uuid":"8c042a38-71c1-1dcb-00df-54880236e0dc","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_jichangvpn.cloud","type":"vmess","server":"cf-lt.sharecentre.online","port":80,"cipher":"auto","uuid":"2e496758-950e-4549-8842-d5eec98d9fde","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"hk2.ilovescp.com"}}}
+  - {"name":"电信一区(广东)","type":"vmess","server":"111.230.252.149","port":50002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇭🇰 [YouTube哈乐a]HK-香港-5-2倍","type":"ssr","server":"bgphk5.vip.conectinnode.info","port":578,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇭🇰 [YouTube哈乐a]HK-香港-9-2倍","type":"ssr","server":"bgphk9.vip.conectinnode.info","port":582,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇺🇸US_1193","type":"trojan","server":"san.ydnode.us","port":443,"udp":true,"password":"d6ed263c-3f14-44db-bfee-cfcc26b234d1","skip-cert-verify":true}
+  - {"name":"🇸🇬 [YouTube哈乐a]SGP-新加坡-2-2倍","type":"ssr","server":"relaysgp2.vip.conectinnode.info","port":1502,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇭🇰 [YouTube哈乐a]HK-香港-A-2倍","type":"ssr","server":"bgphka.vip.conectinnode.info","port":583,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇸🇬SG_662","type":"trojan","server":"w12.udpgw.com","port":443,"udp":true,"password":"08964210-e7b8-11ec-95aa-1239d0255272","skip-cert-verify":true}
+  - {"name":"🇺🇸_US_电报频道： @pjrjzy_4","type":"vmess","server":"cf-lt.sharecentre.online","port":80,"cipher":"auto","uuid":"2e496758-950e-4549-8842-d5eec98d9fde","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"lv2.sharecentrepro.org"}}}
+  - {"name":"🇭🇰 [YouTube哈乐]HK-香港-3-2倍","type":"ssr","server":"bgphk3.vip.conectinnode.info","port":576,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"v2cross.com_19","type":"ss","server":"167.88.63.79","port":8881,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+  - {"name":"🇭🇰 [YouTube哈乐]HK-香港-2-2倍","type":"ssr","server":"bgphk2.vip.conectinnode.info","port":575,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇭🇰 [YouTube哈乐]HK-香港-5-2倍","type":"ssr","server":"bgphk5.vip.conectinnode.info","port":578,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇺🇸US_1169","type":"trojan","server":"fscuk.fscloud123456789.com","port":443,"udp":true,"password":"adbeb3f5-693f-47d0-aec7-07a90c2095c7","skip-cert-verify":true}
+  - {"name":"v2cross.com_20","type":"vmess","server":"cf-lt.sharecentre.online","port":443,"cipher":"auto","uuid":"2e496758-950e-4549-8842-d5eec98d9fde","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"lv1.sharecentrepro.org","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"lv1.sharecentrepro.org"}}}
+  - {"name":"🇨🇦CA_267","type":"trojan","server":"cat-1.opensvr.net","port":443,"udp":true,"password":"opentunnel.net-sdertyuijh","skip-cert-verify":true}
+  - {"name":"🇹🇼 [YouTube哈乐a]TW-台湾-3-2倍","type":"ssr","server":"aiatw3.conectinnode.info","port":1203,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇭🇰 [YouTube哈乐]HK-香港-6-2倍","type":"ssr","server":"bgphk6.vip.conectinnode.info","port":579,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇭🇰 [YouTube哈乐]HK-香港-7-2倍","type":"ssr","server":"bgphk7.vip.conectinnode.info","port":580,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇭🇰 [YouTube哈乐]HK-香港-4-2倍","type":"ssr","server":"bgphk4.vip.conectinnode.info","port":577,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇸🇬SG_657","type":"trojan","server":"w11.udpgw.com","port":443,"udp":true,"password":"f64e69c0-e7b7-11ec-ab81-1239d0255272","skip-cert-verify":true}
+  - {"name":"🇺🇸US_1155","type":"trojan","server":"fscuk.fscloud123456789.com","port":443,"udp":true,"password":"ed19b239-8e49-4b82-979a-24b84fa7b173","skip-cert-verify":true}
+  - {"name":"中国-2.81MB/s(Youtube:不良林)","type":"vmess","server":"hjtrp89q3y9h.judelvin.com","port":54185,"cipher":"auto","uuid":"ed711306-9de2-320c-ab6d-0a9a30623b9a","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇸🇬SG_660","type":"trojan","server":"trojan1.udpgw.com","port":443,"udp":true,"password":"affae2e0-e84b-11ec-b09f-1239d0255272","skip-cert-verify":true}
+  - {"name":"中国-2.83MB/s(Youtube:不良林)","type":"vmess","server":"u89q3yh.judelvin.com","port":32188,"cipher":"auto","uuid":"ed711306-9de2-320c-ab6d-0a9a30623b9a","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇭🇰 [YouTube哈乐]HK-香港-8-2倍","type":"ssr","server":"bgphk8.vip.conectinnode.info","port":581,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🏁ZZ_1306","type":"trojan","server":"5.44.249.43","port":3389,"udp":true,"password":"cd39f62aed7b90f6","skip-cert-verify":true}
+  - {"name":"🏁ZZ_1304","type":"trojan","server":"5.44.249.43","port":3389,"udp":true,"password":"6f0a9d0fa39d65fa","skip-cert-verify":true}
+  - {"name":"🇭🇰 [YouTube哈乐a]HK-香港-1-2倍","type":"ssr","server":"bgphk1.vip.conectinnode.info","port":574,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇭🇰 [YouTube哈乐]HK-香港-9-2倍","type":"ssr","server":"bgphk9.vip.conectinnode.info","port":582,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇭🇰 [YouTube哈乐]HK-香港-1-2倍","type":"ssr","server":"bgphk1.vip.conectinnode.info","port":574,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🏁ZZ_1305","type":"trojan","server":"5.44.249.43","port":3389,"udp":true,"password":"ffec9f6ea19e1dd1","skip-cert-verify":true}
+  - {"name":"🇭🇰 [YouTube哈乐]HK-香港-A-2倍","type":"ssr","server":"bgphka.vip.conectinnode.info","port":583,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇺🇸US_1056","type":"vmess","server":"140.99.149.45","port":56882,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🏁ZZ_1303","type":"trojan","server":"5.44.249.43","port":3389,"udp":true,"password":"d66013c645b93c5c","skip-cert-verify":true}
+  - {"name":"🇰🇷KR_466","type":"trojan","server":"upay.com","port":443,"udp":true,"password":"-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26","skip-cert-verify":true}
+  - {"name":"🇬🇧 [YouTube哈乐a]UK-英国-1-2倍","type":"ssr","server":"cucsuk1.vip.conectinnode.info","port":1351,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"🇬🇧 [YouTube哈乐]UK-英国-1-2倍","type":"ssr","server":"cucsuk1.vip.conectinnode.info","port":1351,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇹🇼 [YouTube哈乐]TW-台湾-2-2倍","type":"ssr","server":"aiatw2.conectinnode.info","port":1202,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇹🇼 [YouTube哈乐]TW-台湾-1-2倍","type":"ssr","server":"aiatw1.conectinnode.info","port":1201,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇬🇧 [YouTube哈乐]UK-英国-2-2倍","type":"ssr","server":"shuk2.vip.conectinnode.info","port":1352,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"c802987255.wns.windows.com","protocol-param":"87255:aSuG7m1Uhri","group":"MZfastCloud"}
+  - {"name":"🇬🇧 [YouTube哈乐a]UK-英国-2-2倍","type":"ssr","server":"shuk2.vip.conectinnode.info","port":1352,"password":"mtbv8n","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"f2f2a89977.wns.windows.com","protocol-param":"89977:kNzvuCt38aW","group":"MZfastCloud"}
+  - {"name":"中国-4.85MB/s(Youtube:不良林)","type":"vmess","server":"u89q3yh.judelvin.com","port":45613,"cipher":"auto","uuid":"ed711306-9de2-320c-ab6d-0a9a30623b9a","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/sina.cn","headers":{"host":"u89q3yh.judelvin.com"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -29,6 +259,236 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 🇭🇰 [YouTube哈乐a]HK-香港-8-2倍
+      - 🇸🇬 [YouTube哈乐]SGP-新加坡-1-2倍
+      - 🇯🇵JP_460
+      - 🇨🇦CA_268
+      - 🇹🇼 [YouTube哈乐]TW-台湾-6-2倍
+      - 🇺🇸US_1175
+      - 🇹🇼 [YouTube哈乐]TW-台湾-3-2倍
+      - 🇸🇬 [YouTube哈乐]SGP-新加坡-2-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-2-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-1-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-4-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-7-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-3-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-6-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-5-2倍
+      - 🇺🇸US_1187
+      - 🇺🇸US_1186
+      - 🇧🇷 [YouTube哈乐]BR-巴西-1-2倍
+      - 🇺🇸US_1190
+      - 🇦🇷 [YouTube哈乐]AR-阿根廷-1-2倍
+      - 🇦🇷 [YouTube哈乐a]AR-阿根廷-1-2倍
+      - 🇧🇷 [YouTube哈乐a]BR-巴西-1-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-4-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-5-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-4-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-2-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-6-2倍
+      - 🇨🇿CZ_285
+      - 塞尔维亚
+      - 🇺🇦UA_674
+      - _180
+      - 🇸🇬 [YouTube哈乐a]SGP-新加坡-1-2倍
+      - _134
+      - 🇺🇸_US_美国_1
+      - 🇭🇰_HK_香港->🇺🇸_US_美国_1
+      - v2cross.com_1
+      - 🇭🇰_HK_香港->🇺🇸_US_美国_2
+      - _46
+      - v2cross.com_2
+      - _14
+      - 🇺🇸US_1153
+      - 🇨🇳_CN_中国->🇭🇰_HK_香港_1
+      - 🏁ZZ_1300
+      - 🏁ZZ_1301
+      - 🇺🇸US_1008
+      - 🇨🇦CA_238
+      - 美国+V2CROSS.COM
+      - 🇺🇸US_1170
+      - 🏁ZZ_1302
+      - 🇺🇸US_1051
+      - 🇺🇸US_1030
+      - v2cross.com_3
+      - 🏁ZZ_1299
+      - 🇺🇸US_1048
+      - 🇺🇸_US_美国_2
+      - 🇺🇸US_1022
+      - 🇺🇸US_1159
+      - v2cross.com_4
+      - 🇨🇳_CN_电报频道： @pjrjzy_1
+      - 🇺🇸US_970
+      - 🇺🇸US_1023
+      - 🇺🇸_US_美国_3
+      - 🇷🇺 [YouTube哈乐a]RU-俄罗斯-1-2倍
+      - 🇺🇸US_979
+      - 🇺🇸US_1024
+      - 🇺🇸_US_美国_4
+      - 🇺🇸US_1137
+      - 🇺🇸_US_电报频道： @pjrjzy_1
+      - v2cross.com_5
+      - 🇺🇸US_994
+      - 🇺🇸US_1052
+      - 🇺🇸US_1083
+      - 🇷🇺 [YouTube哈乐]RU-俄罗斯-1-2倍
+      - 🇹🇷 [YouTube哈乐a]TR-土耳其-1-2倍
+      - 🇺🇸US_1179
+      - 🇺🇸US_989
+      - v2cross.com_6
+      - 🇹🇷 [YouTube哈乐]TR-土耳其-1-2倍
+      - 🇺🇸_US_美国_5
+      - 🇺🇸US_1049
+      - v2cross.com_7
+      - 🇺🇸_US_美国_6
+      - 🇺🇸US_1062
+      - v2cross.com_8
+      - 🇺🇸US_1033
+      - v2cross.com_9
+      - 🇺🇸US_1039
+      - 🇺🇸_US_美国_7
+      - v2cross.com_10
+      - 🇺🇸US_1037
+      - 🇺🇸US_1063
+      - v2cross.com_11
+      - 🇺🇸_US_美国_8
+      - v2cross.com_12
+      - 🇨🇳CN_282
+      - _192
+      - 🇺🇸US_1164
+      - 🇺🇸US_1032
+      - 🇺🇸_US_美国_9
+      - 🇺🇸US_1125
+      - 🇺🇸_US_美国_10
+      - v2cross.com_13
+      - 🇷🇺+RU_633
+      - 🇺🇸US_1025
+      - 日本东京C
+      - 🇺🇸US_997
+      - v2cross.com_14
+      - 🇺🇸US_995
+      - 🇨🇳_CN_电报频道： @pjrjzy_2
+      - 🇫🇷 [YouTube哈乐]FR-法国-1-2倍
+      - 🇳🇱NL_613
+      - 美国 V2CROSS.COM
+      - 🇺🇸US_1009
+      - 🇺🇸_US_美国_11
+      - 🇺🇲 [YouTube哈乐]US-美国-3-2倍
+      - 🇺🇸US_1080
+      - _91
+      - 🇩🇪 [YouTube哈乐a]DE-德国-1-2倍
+      - 🇺🇲 [YouTube哈乐]US-美国-2-2倍
+      - 🇺🇸US_998
+      - 🇺🇸_US_美国_12
+      - 🇺🇲 [YouTube哈乐]US-美国-1-2倍
+      - 🇺🇲 [YouTube哈乐a]US-美国-4-2倍
+      - 🇰🇷 [YouTube哈乐a]KR-韩国-1-2倍
+      - _151
+      - _31
+      - 🇰🇷 [YouTube哈乐a]KR-韩国-2-2倍
+      - 🇯🇵_JP_jichangvpn.cloud
+      - _55
+      - 🇺🇸_US_美国_13
+      - 🇫🇷 [YouTube哈乐a]FR-法国-1-2倍
+      - 中国-2.37MB/s(Youtube:不良林)
+      - 🇺🇸_US_美国_14
+      - _69
+      - 🇺🇲 [YouTube哈乐a]US-美国-2-2倍
+      - 🇵🇭 [YouTube哈乐]PH-菲律宾-1-2倍
+      - _49
+      - 🇺🇲 [YouTube哈乐a]US-美国-3-2倍
+      - 🇺🇲 [YouTube哈乐a]US-美国-1-2倍
+      - 🇨🇳CN_284
+      - 🇭🇰HK_433
+      - _73
+      - 🇨🇳CN_277
+      - v2cross.com_15
+      - 🇫🇷FR_401
+      - v2cross.com_16
+      - 🇺🇸_US_电报频道： @pjrjzy_2
+      - v2cross.com_17
+      - 🇭🇰HK_435
+      - _64
+      - 🇺🇸_US_美国_15
+      - 🇦🇺AU_205
+      - 🇺🇸US_1172
+      - 🇵🇭 [YouTube哈乐a]PH-菲律宾-1-2倍
+      - 🇿🇦ZA_1203
+      - _155
+      - 🇨🇳_CN_电报频道： @pjrjzy_3
+      - _88
+      - 🇺🇸US_1191
+      - 🇹🇼TW_673
+      - 🇯🇵 [YouTube哈乐]JP-日本-1-2倍
+      - 🇨🇳_CN_中国->🇭🇰_HK_香港_2
+      - 🇨🇦CA_258
+      - 🇯🇵 [YouTube哈乐]JP-日本-3-2倍
+      - 🇻🇳 [YouTube哈乐a]VN-越南-1-2倍
+      - 🇯🇵 [YouTube哈乐]JP-日本-2-2倍
+      - 🇭🇰_HK_香港
+      - v2cross.com_18
+      - 🇯🇵 [YouTube哈乐a]JP-日本-3-2倍
+      - 🇯🇵 [YouTube哈乐a]JP-日本-1-2倍
+      - 🇯🇵 [YouTube哈乐]JP-日本-4-2倍
+      - 🇫🇷FR_402
+      - 🇸🇬SG_661
+      - 🇯🇵 [YouTube哈乐a]JP-日本-2-2倍
+      - 🇯🇵 [YouTube哈乐a]JP-日本-4-2倍
+      - 🇺🇸_US_美国_16
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_1
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_2
+      - 🇸🇬SG_663
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_3
+      - 🇺🇸US_1185
+      - 🇭🇰HK_442
+      - 🇺🇸_US_电报频道： @pjrjzy_3
+      - 🇨🇳CN_280
+      - 🇨🇳_CN_电报频道： @pjrjzy_4
+      - _97
+      - 🇺🇸US_1157
+      - 🇨🇳_CN_电报频道： @pjrjzy_5
+      - 🇺🇸_US_jichangvpn.cloud
+      - 电信一区(广东)
+      - 🇭🇰 [YouTube哈乐a]HK-香港-5-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-9-2倍
+      - 🇺🇸US_1193
+      - 🇸🇬 [YouTube哈乐a]SGP-新加坡-2-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-A-2倍
+      - 🇸🇬SG_662
+      - 🇺🇸_US_电报频道： @pjrjzy_4
+      - 🇭🇰 [YouTube哈乐]HK-香港-3-2倍
+      - v2cross.com_19
+      - 🇭🇰 [YouTube哈乐]HK-香港-2-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-5-2倍
+      - 🇺🇸US_1169
+      - v2cross.com_20
+      - 🇨🇦CA_267
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-3-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-6-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-7-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-4-2倍
+      - 🇸🇬SG_657
+      - 🇺🇸US_1155
+      - 中国-2.81MB/s(Youtube:不良林)
+      - 🇸🇬SG_660
+      - 中国-2.83MB/s(Youtube:不良林)
+      - 🇭🇰 [YouTube哈乐]HK-香港-8-2倍
+      - 🏁ZZ_1306
+      - 🏁ZZ_1304
+      - 🇭🇰 [YouTube哈乐a]HK-香港-1-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-9-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-1-2倍
+      - 🏁ZZ_1305
+      - 🇭🇰 [YouTube哈乐]HK-香港-A-2倍
+      - 🇺🇸US_1056
+      - 🏁ZZ_1303
+      - 🇰🇷KR_466
+      - 🇬🇧 [YouTube哈乐a]UK-英国-1-2倍
+      - 🇬🇧 [YouTube哈乐]UK-英国-1-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-2-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-1-2倍
+      - 🇬🇧 [YouTube哈乐]UK-英国-2-2倍
+      - 🇬🇧 [YouTube哈乐a]UK-英国-2-2倍
+      - 中国-4.85MB/s(Youtube:不良林)
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -36,6 +496,236 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇭🇰 [YouTube哈乐a]HK-香港-8-2倍
+      - 🇸🇬 [YouTube哈乐]SGP-新加坡-1-2倍
+      - 🇯🇵JP_460
+      - 🇨🇦CA_268
+      - 🇹🇼 [YouTube哈乐]TW-台湾-6-2倍
+      - 🇺🇸US_1175
+      - 🇹🇼 [YouTube哈乐]TW-台湾-3-2倍
+      - 🇸🇬 [YouTube哈乐]SGP-新加坡-2-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-2-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-1-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-4-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-7-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-3-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-6-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-5-2倍
+      - 🇺🇸US_1187
+      - 🇺🇸US_1186
+      - 🇧🇷 [YouTube哈乐]BR-巴西-1-2倍
+      - 🇺🇸US_1190
+      - 🇦🇷 [YouTube哈乐]AR-阿根廷-1-2倍
+      - 🇦🇷 [YouTube哈乐a]AR-阿根廷-1-2倍
+      - 🇧🇷 [YouTube哈乐a]BR-巴西-1-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-4-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-5-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-4-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-2-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-6-2倍
+      - 🇨🇿CZ_285
+      - 塞尔维亚
+      - 🇺🇦UA_674
+      - _180
+      - 🇸🇬 [YouTube哈乐a]SGP-新加坡-1-2倍
+      - _134
+      - 🇺🇸_US_美国_1
+      - 🇭🇰_HK_香港->🇺🇸_US_美国_1
+      - v2cross.com_1
+      - 🇭🇰_HK_香港->🇺🇸_US_美国_2
+      - _46
+      - v2cross.com_2
+      - _14
+      - 🇺🇸US_1153
+      - 🇨🇳_CN_中国->🇭🇰_HK_香港_1
+      - 🏁ZZ_1300
+      - 🏁ZZ_1301
+      - 🇺🇸US_1008
+      - 🇨🇦CA_238
+      - 美国+V2CROSS.COM
+      - 🇺🇸US_1170
+      - 🏁ZZ_1302
+      - 🇺🇸US_1051
+      - 🇺🇸US_1030
+      - v2cross.com_3
+      - 🏁ZZ_1299
+      - 🇺🇸US_1048
+      - 🇺🇸_US_美国_2
+      - 🇺🇸US_1022
+      - 🇺🇸US_1159
+      - v2cross.com_4
+      - 🇨🇳_CN_电报频道： @pjrjzy_1
+      - 🇺🇸US_970
+      - 🇺🇸US_1023
+      - 🇺🇸_US_美国_3
+      - 🇷🇺 [YouTube哈乐a]RU-俄罗斯-1-2倍
+      - 🇺🇸US_979
+      - 🇺🇸US_1024
+      - 🇺🇸_US_美国_4
+      - 🇺🇸US_1137
+      - 🇺🇸_US_电报频道： @pjrjzy_1
+      - v2cross.com_5
+      - 🇺🇸US_994
+      - 🇺🇸US_1052
+      - 🇺🇸US_1083
+      - 🇷🇺 [YouTube哈乐]RU-俄罗斯-1-2倍
+      - 🇹🇷 [YouTube哈乐a]TR-土耳其-1-2倍
+      - 🇺🇸US_1179
+      - 🇺🇸US_989
+      - v2cross.com_6
+      - 🇹🇷 [YouTube哈乐]TR-土耳其-1-2倍
+      - 🇺🇸_US_美国_5
+      - 🇺🇸US_1049
+      - v2cross.com_7
+      - 🇺🇸_US_美国_6
+      - 🇺🇸US_1062
+      - v2cross.com_8
+      - 🇺🇸US_1033
+      - v2cross.com_9
+      - 🇺🇸US_1039
+      - 🇺🇸_US_美国_7
+      - v2cross.com_10
+      - 🇺🇸US_1037
+      - 🇺🇸US_1063
+      - v2cross.com_11
+      - 🇺🇸_US_美国_8
+      - v2cross.com_12
+      - 🇨🇳CN_282
+      - _192
+      - 🇺🇸US_1164
+      - 🇺🇸US_1032
+      - 🇺🇸_US_美国_9
+      - 🇺🇸US_1125
+      - 🇺🇸_US_美国_10
+      - v2cross.com_13
+      - 🇷🇺+RU_633
+      - 🇺🇸US_1025
+      - 日本东京C
+      - 🇺🇸US_997
+      - v2cross.com_14
+      - 🇺🇸US_995
+      - 🇨🇳_CN_电报频道： @pjrjzy_2
+      - 🇫🇷 [YouTube哈乐]FR-法国-1-2倍
+      - 🇳🇱NL_613
+      - 美国 V2CROSS.COM
+      - 🇺🇸US_1009
+      - 🇺🇸_US_美国_11
+      - 🇺🇲 [YouTube哈乐]US-美国-3-2倍
+      - 🇺🇸US_1080
+      - _91
+      - 🇩🇪 [YouTube哈乐a]DE-德国-1-2倍
+      - 🇺🇲 [YouTube哈乐]US-美国-2-2倍
+      - 🇺🇸US_998
+      - 🇺🇸_US_美国_12
+      - 🇺🇲 [YouTube哈乐]US-美国-1-2倍
+      - 🇺🇲 [YouTube哈乐a]US-美国-4-2倍
+      - 🇰🇷 [YouTube哈乐a]KR-韩国-1-2倍
+      - _151
+      - _31
+      - 🇰🇷 [YouTube哈乐a]KR-韩国-2-2倍
+      - 🇯🇵_JP_jichangvpn.cloud
+      - _55
+      - 🇺🇸_US_美国_13
+      - 🇫🇷 [YouTube哈乐a]FR-法国-1-2倍
+      - 中国-2.37MB/s(Youtube:不良林)
+      - 🇺🇸_US_美国_14
+      - _69
+      - 🇺🇲 [YouTube哈乐a]US-美国-2-2倍
+      - 🇵🇭 [YouTube哈乐]PH-菲律宾-1-2倍
+      - _49
+      - 🇺🇲 [YouTube哈乐a]US-美国-3-2倍
+      - 🇺🇲 [YouTube哈乐a]US-美国-1-2倍
+      - 🇨🇳CN_284
+      - 🇭🇰HK_433
+      - _73
+      - 🇨🇳CN_277
+      - v2cross.com_15
+      - 🇫🇷FR_401
+      - v2cross.com_16
+      - 🇺🇸_US_电报频道： @pjrjzy_2
+      - v2cross.com_17
+      - 🇭🇰HK_435
+      - _64
+      - 🇺🇸_US_美国_15
+      - 🇦🇺AU_205
+      - 🇺🇸US_1172
+      - 🇵🇭 [YouTube哈乐a]PH-菲律宾-1-2倍
+      - 🇿🇦ZA_1203
+      - _155
+      - 🇨🇳_CN_电报频道： @pjrjzy_3
+      - _88
+      - 🇺🇸US_1191
+      - 🇹🇼TW_673
+      - 🇯🇵 [YouTube哈乐]JP-日本-1-2倍
+      - 🇨🇳_CN_中国->🇭🇰_HK_香港_2
+      - 🇨🇦CA_258
+      - 🇯🇵 [YouTube哈乐]JP-日本-3-2倍
+      - 🇻🇳 [YouTube哈乐a]VN-越南-1-2倍
+      - 🇯🇵 [YouTube哈乐]JP-日本-2-2倍
+      - 🇭🇰_HK_香港
+      - v2cross.com_18
+      - 🇯🇵 [YouTube哈乐a]JP-日本-3-2倍
+      - 🇯🇵 [YouTube哈乐a]JP-日本-1-2倍
+      - 🇯🇵 [YouTube哈乐]JP-日本-4-2倍
+      - 🇫🇷FR_402
+      - 🇸🇬SG_661
+      - 🇯🇵 [YouTube哈乐a]JP-日本-2-2倍
+      - 🇯🇵 [YouTube哈乐a]JP-日本-4-2倍
+      - 🇺🇸_US_美国_16
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_1
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_2
+      - 🇸🇬SG_663
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_3
+      - 🇺🇸US_1185
+      - 🇭🇰HK_442
+      - 🇺🇸_US_电报频道： @pjrjzy_3
+      - 🇨🇳CN_280
+      - 🇨🇳_CN_电报频道： @pjrjzy_4
+      - _97
+      - 🇺🇸US_1157
+      - 🇨🇳_CN_电报频道： @pjrjzy_5
+      - 🇺🇸_US_jichangvpn.cloud
+      - 电信一区(广东)
+      - 🇭🇰 [YouTube哈乐a]HK-香港-5-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-9-2倍
+      - 🇺🇸US_1193
+      - 🇸🇬 [YouTube哈乐a]SGP-新加坡-2-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-A-2倍
+      - 🇸🇬SG_662
+      - 🇺🇸_US_电报频道： @pjrjzy_4
+      - 🇭🇰 [YouTube哈乐]HK-香港-3-2倍
+      - v2cross.com_19
+      - 🇭🇰 [YouTube哈乐]HK-香港-2-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-5-2倍
+      - 🇺🇸US_1169
+      - v2cross.com_20
+      - 🇨🇦CA_267
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-3-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-6-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-7-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-4-2倍
+      - 🇸🇬SG_657
+      - 🇺🇸US_1155
+      - 中国-2.81MB/s(Youtube:不良林)
+      - 🇸🇬SG_660
+      - 中国-2.83MB/s(Youtube:不良林)
+      - 🇭🇰 [YouTube哈乐]HK-香港-8-2倍
+      - 🏁ZZ_1306
+      - 🏁ZZ_1304
+      - 🇭🇰 [YouTube哈乐a]HK-香港-1-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-9-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-1-2倍
+      - 🏁ZZ_1305
+      - 🇭🇰 [YouTube哈乐]HK-香港-A-2倍
+      - 🇺🇸US_1056
+      - 🏁ZZ_1303
+      - 🇰🇷KR_466
+      - 🇬🇧 [YouTube哈乐a]UK-英国-1-2倍
+      - 🇬🇧 [YouTube哈乐]UK-英国-1-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-2-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-1-2倍
+      - 🇬🇧 [YouTube哈乐]UK-英国-2-2倍
+      - 🇬🇧 [YouTube哈乐a]UK-英国-2-2倍
+      - 中国-4.85MB/s(Youtube:不良林)
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -43,24 +733,944 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇭🇰 [YouTube哈乐a]HK-香港-8-2倍
+      - 🇸🇬 [YouTube哈乐]SGP-新加坡-1-2倍
+      - 🇯🇵JP_460
+      - 🇨🇦CA_268
+      - 🇹🇼 [YouTube哈乐]TW-台湾-6-2倍
+      - 🇺🇸US_1175
+      - 🇹🇼 [YouTube哈乐]TW-台湾-3-2倍
+      - 🇸🇬 [YouTube哈乐]SGP-新加坡-2-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-2-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-1-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-4-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-7-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-3-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-6-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-5-2倍
+      - 🇺🇸US_1187
+      - 🇺🇸US_1186
+      - 🇧🇷 [YouTube哈乐]BR-巴西-1-2倍
+      - 🇺🇸US_1190
+      - 🇦🇷 [YouTube哈乐]AR-阿根廷-1-2倍
+      - 🇦🇷 [YouTube哈乐a]AR-阿根廷-1-2倍
+      - 🇧🇷 [YouTube哈乐a]BR-巴西-1-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-4-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-5-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-4-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-2-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-6-2倍
+      - 🇨🇿CZ_285
+      - 塞尔维亚
+      - 🇺🇦UA_674
+      - _180
+      - 🇸🇬 [YouTube哈乐a]SGP-新加坡-1-2倍
+      - _134
+      - 🇺🇸_US_美国_1
+      - 🇭🇰_HK_香港->🇺🇸_US_美国_1
+      - v2cross.com_1
+      - 🇭🇰_HK_香港->🇺🇸_US_美国_2
+      - _46
+      - v2cross.com_2
+      - _14
+      - 🇺🇸US_1153
+      - 🇨🇳_CN_中国->🇭🇰_HK_香港_1
+      - 🏁ZZ_1300
+      - 🏁ZZ_1301
+      - 🇺🇸US_1008
+      - 🇨🇦CA_238
+      - 美国+V2CROSS.COM
+      - 🇺🇸US_1170
+      - 🏁ZZ_1302
+      - 🇺🇸US_1051
+      - 🇺🇸US_1030
+      - v2cross.com_3
+      - 🏁ZZ_1299
+      - 🇺🇸US_1048
+      - 🇺🇸_US_美国_2
+      - 🇺🇸US_1022
+      - 🇺🇸US_1159
+      - v2cross.com_4
+      - 🇨🇳_CN_电报频道： @pjrjzy_1
+      - 🇺🇸US_970
+      - 🇺🇸US_1023
+      - 🇺🇸_US_美国_3
+      - 🇷🇺 [YouTube哈乐a]RU-俄罗斯-1-2倍
+      - 🇺🇸US_979
+      - 🇺🇸US_1024
+      - 🇺🇸_US_美国_4
+      - 🇺🇸US_1137
+      - 🇺🇸_US_电报频道： @pjrjzy_1
+      - v2cross.com_5
+      - 🇺🇸US_994
+      - 🇺🇸US_1052
+      - 🇺🇸US_1083
+      - 🇷🇺 [YouTube哈乐]RU-俄罗斯-1-2倍
+      - 🇹🇷 [YouTube哈乐a]TR-土耳其-1-2倍
+      - 🇺🇸US_1179
+      - 🇺🇸US_989
+      - v2cross.com_6
+      - 🇹🇷 [YouTube哈乐]TR-土耳其-1-2倍
+      - 🇺🇸_US_美国_5
+      - 🇺🇸US_1049
+      - v2cross.com_7
+      - 🇺🇸_US_美国_6
+      - 🇺🇸US_1062
+      - v2cross.com_8
+      - 🇺🇸US_1033
+      - v2cross.com_9
+      - 🇺🇸US_1039
+      - 🇺🇸_US_美国_7
+      - v2cross.com_10
+      - 🇺🇸US_1037
+      - 🇺🇸US_1063
+      - v2cross.com_11
+      - 🇺🇸_US_美国_8
+      - v2cross.com_12
+      - 🇨🇳CN_282
+      - _192
+      - 🇺🇸US_1164
+      - 🇺🇸US_1032
+      - 🇺🇸_US_美国_9
+      - 🇺🇸US_1125
+      - 🇺🇸_US_美国_10
+      - v2cross.com_13
+      - 🇷🇺+RU_633
+      - 🇺🇸US_1025
+      - 日本东京C
+      - 🇺🇸US_997
+      - v2cross.com_14
+      - 🇺🇸US_995
+      - 🇨🇳_CN_电报频道： @pjrjzy_2
+      - 🇫🇷 [YouTube哈乐]FR-法国-1-2倍
+      - 🇳🇱NL_613
+      - 美国 V2CROSS.COM
+      - 🇺🇸US_1009
+      - 🇺🇸_US_美国_11
+      - 🇺🇲 [YouTube哈乐]US-美国-3-2倍
+      - 🇺🇸US_1080
+      - _91
+      - 🇩🇪 [YouTube哈乐a]DE-德国-1-2倍
+      - 🇺🇲 [YouTube哈乐]US-美国-2-2倍
+      - 🇺🇸US_998
+      - 🇺🇸_US_美国_12
+      - 🇺🇲 [YouTube哈乐]US-美国-1-2倍
+      - 🇺🇲 [YouTube哈乐a]US-美国-4-2倍
+      - 🇰🇷 [YouTube哈乐a]KR-韩国-1-2倍
+      - _151
+      - _31
+      - 🇰🇷 [YouTube哈乐a]KR-韩国-2-2倍
+      - 🇯🇵_JP_jichangvpn.cloud
+      - _55
+      - 🇺🇸_US_美国_13
+      - 🇫🇷 [YouTube哈乐a]FR-法国-1-2倍
+      - 中国-2.37MB/s(Youtube:不良林)
+      - 🇺🇸_US_美国_14
+      - _69
+      - 🇺🇲 [YouTube哈乐a]US-美国-2-2倍
+      - 🇵🇭 [YouTube哈乐]PH-菲律宾-1-2倍
+      - _49
+      - 🇺🇲 [YouTube哈乐a]US-美国-3-2倍
+      - 🇺🇲 [YouTube哈乐a]US-美国-1-2倍
+      - 🇨🇳CN_284
+      - 🇭🇰HK_433
+      - _73
+      - 🇨🇳CN_277
+      - v2cross.com_15
+      - 🇫🇷FR_401
+      - v2cross.com_16
+      - 🇺🇸_US_电报频道： @pjrjzy_2
+      - v2cross.com_17
+      - 🇭🇰HK_435
+      - _64
+      - 🇺🇸_US_美国_15
+      - 🇦🇺AU_205
+      - 🇺🇸US_1172
+      - 🇵🇭 [YouTube哈乐a]PH-菲律宾-1-2倍
+      - 🇿🇦ZA_1203
+      - _155
+      - 🇨🇳_CN_电报频道： @pjrjzy_3
+      - _88
+      - 🇺🇸US_1191
+      - 🇹🇼TW_673
+      - 🇯🇵 [YouTube哈乐]JP-日本-1-2倍
+      - 🇨🇳_CN_中国->🇭🇰_HK_香港_2
+      - 🇨🇦CA_258
+      - 🇯🇵 [YouTube哈乐]JP-日本-3-2倍
+      - 🇻🇳 [YouTube哈乐a]VN-越南-1-2倍
+      - 🇯🇵 [YouTube哈乐]JP-日本-2-2倍
+      - 🇭🇰_HK_香港
+      - v2cross.com_18
+      - 🇯🇵 [YouTube哈乐a]JP-日本-3-2倍
+      - 🇯🇵 [YouTube哈乐a]JP-日本-1-2倍
+      - 🇯🇵 [YouTube哈乐]JP-日本-4-2倍
+      - 🇫🇷FR_402
+      - 🇸🇬SG_661
+      - 🇯🇵 [YouTube哈乐a]JP-日本-2-2倍
+      - 🇯🇵 [YouTube哈乐a]JP-日本-4-2倍
+      - 🇺🇸_US_美国_16
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_1
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_2
+      - 🇸🇬SG_663
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_3
+      - 🇺🇸US_1185
+      - 🇭🇰HK_442
+      - 🇺🇸_US_电报频道： @pjrjzy_3
+      - 🇨🇳CN_280
+      - 🇨🇳_CN_电报频道： @pjrjzy_4
+      - _97
+      - 🇺🇸US_1157
+      - 🇨🇳_CN_电报频道： @pjrjzy_5
+      - 🇺🇸_US_jichangvpn.cloud
+      - 电信一区(广东)
+      - 🇭🇰 [YouTube哈乐a]HK-香港-5-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-9-2倍
+      - 🇺🇸US_1193
+      - 🇸🇬 [YouTube哈乐a]SGP-新加坡-2-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-A-2倍
+      - 🇸🇬SG_662
+      - 🇺🇸_US_电报频道： @pjrjzy_4
+      - 🇭🇰 [YouTube哈乐]HK-香港-3-2倍
+      - v2cross.com_19
+      - 🇭🇰 [YouTube哈乐]HK-香港-2-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-5-2倍
+      - 🇺🇸US_1169
+      - v2cross.com_20
+      - 🇨🇦CA_267
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-3-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-6-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-7-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-4-2倍
+      - 🇸🇬SG_657
+      - 🇺🇸US_1155
+      - 中国-2.81MB/s(Youtube:不良林)
+      - 🇸🇬SG_660
+      - 中国-2.83MB/s(Youtube:不良林)
+      - 🇭🇰 [YouTube哈乐]HK-香港-8-2倍
+      - 🏁ZZ_1306
+      - 🏁ZZ_1304
+      - 🇭🇰 [YouTube哈乐a]HK-香港-1-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-9-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-1-2倍
+      - 🏁ZZ_1305
+      - 🇭🇰 [YouTube哈乐]HK-香港-A-2倍
+      - 🇺🇸US_1056
+      - 🏁ZZ_1303
+      - 🇰🇷KR_466
+      - 🇬🇧 [YouTube哈乐a]UK-英国-1-2倍
+      - 🇬🇧 [YouTube哈乐]UK-英国-1-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-2-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-1-2倍
+      - 🇬🇧 [YouTube哈乐]UK-英国-2-2倍
+      - 🇬🇧 [YouTube哈乐a]UK-英国-2-2倍
+      - 中国-4.85MB/s(Youtube:不良林)
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 🇭🇰 [YouTube哈乐a]HK-香港-8-2倍
+      - 🇸🇬 [YouTube哈乐]SGP-新加坡-1-2倍
+      - 🇯🇵JP_460
+      - 🇨🇦CA_268
+      - 🇹🇼 [YouTube哈乐]TW-台湾-6-2倍
+      - 🇺🇸US_1175
+      - 🇹🇼 [YouTube哈乐]TW-台湾-3-2倍
+      - 🇸🇬 [YouTube哈乐]SGP-新加坡-2-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-2-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-1-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-4-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-7-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-3-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-6-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-5-2倍
+      - 🇺🇸US_1187
+      - 🇺🇸US_1186
+      - 🇧🇷 [YouTube哈乐]BR-巴西-1-2倍
+      - 🇺🇸US_1190
+      - 🇦🇷 [YouTube哈乐]AR-阿根廷-1-2倍
+      - 🇦🇷 [YouTube哈乐a]AR-阿根廷-1-2倍
+      - 🇧🇷 [YouTube哈乐a]BR-巴西-1-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-4-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-5-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-4-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-2-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-6-2倍
+      - 🇨🇿CZ_285
+      - 塞尔维亚
+      - 🇺🇦UA_674
+      - _180
+      - 🇸🇬 [YouTube哈乐a]SGP-新加坡-1-2倍
+      - _134
+      - 🇺🇸_US_美国_1
+      - 🇭🇰_HK_香港->🇺🇸_US_美国_1
+      - v2cross.com_1
+      - 🇭🇰_HK_香港->🇺🇸_US_美国_2
+      - _46
+      - v2cross.com_2
+      - _14
+      - 🇺🇸US_1153
+      - 🇨🇳_CN_中国->🇭🇰_HK_香港_1
+      - 🏁ZZ_1300
+      - 🏁ZZ_1301
+      - 🇺🇸US_1008
+      - 🇨🇦CA_238
+      - 美国+V2CROSS.COM
+      - 🇺🇸US_1170
+      - 🏁ZZ_1302
+      - 🇺🇸US_1051
+      - 🇺🇸US_1030
+      - v2cross.com_3
+      - 🏁ZZ_1299
+      - 🇺🇸US_1048
+      - 🇺🇸_US_美国_2
+      - 🇺🇸US_1022
+      - 🇺🇸US_1159
+      - v2cross.com_4
+      - 🇨🇳_CN_电报频道： @pjrjzy_1
+      - 🇺🇸US_970
+      - 🇺🇸US_1023
+      - 🇺🇸_US_美国_3
+      - 🇷🇺 [YouTube哈乐a]RU-俄罗斯-1-2倍
+      - 🇺🇸US_979
+      - 🇺🇸US_1024
+      - 🇺🇸_US_美国_4
+      - 🇺🇸US_1137
+      - 🇺🇸_US_电报频道： @pjrjzy_1
+      - v2cross.com_5
+      - 🇺🇸US_994
+      - 🇺🇸US_1052
+      - 🇺🇸US_1083
+      - 🇷🇺 [YouTube哈乐]RU-俄罗斯-1-2倍
+      - 🇹🇷 [YouTube哈乐a]TR-土耳其-1-2倍
+      - 🇺🇸US_1179
+      - 🇺🇸US_989
+      - v2cross.com_6
+      - 🇹🇷 [YouTube哈乐]TR-土耳其-1-2倍
+      - 🇺🇸_US_美国_5
+      - 🇺🇸US_1049
+      - v2cross.com_7
+      - 🇺🇸_US_美国_6
+      - 🇺🇸US_1062
+      - v2cross.com_8
+      - 🇺🇸US_1033
+      - v2cross.com_9
+      - 🇺🇸US_1039
+      - 🇺🇸_US_美国_7
+      - v2cross.com_10
+      - 🇺🇸US_1037
+      - 🇺🇸US_1063
+      - v2cross.com_11
+      - 🇺🇸_US_美国_8
+      - v2cross.com_12
+      - 🇨🇳CN_282
+      - _192
+      - 🇺🇸US_1164
+      - 🇺🇸US_1032
+      - 🇺🇸_US_美国_9
+      - 🇺🇸US_1125
+      - 🇺🇸_US_美国_10
+      - v2cross.com_13
+      - 🇷🇺+RU_633
+      - 🇺🇸US_1025
+      - 日本东京C
+      - 🇺🇸US_997
+      - v2cross.com_14
+      - 🇺🇸US_995
+      - 🇨🇳_CN_电报频道： @pjrjzy_2
+      - 🇫🇷 [YouTube哈乐]FR-法国-1-2倍
+      - 🇳🇱NL_613
+      - 美国 V2CROSS.COM
+      - 🇺🇸US_1009
+      - 🇺🇸_US_美国_11
+      - 🇺🇲 [YouTube哈乐]US-美国-3-2倍
+      - 🇺🇸US_1080
+      - _91
+      - 🇩🇪 [YouTube哈乐a]DE-德国-1-2倍
+      - 🇺🇲 [YouTube哈乐]US-美国-2-2倍
+      - 🇺🇸US_998
+      - 🇺🇸_US_美国_12
+      - 🇺🇲 [YouTube哈乐]US-美国-1-2倍
+      - 🇺🇲 [YouTube哈乐a]US-美国-4-2倍
+      - 🇰🇷 [YouTube哈乐a]KR-韩国-1-2倍
+      - _151
+      - _31
+      - 🇰🇷 [YouTube哈乐a]KR-韩国-2-2倍
+      - 🇯🇵_JP_jichangvpn.cloud
+      - _55
+      - 🇺🇸_US_美国_13
+      - 🇫🇷 [YouTube哈乐a]FR-法国-1-2倍
+      - 中国-2.37MB/s(Youtube:不良林)
+      - 🇺🇸_US_美国_14
+      - _69
+      - 🇺🇲 [YouTube哈乐a]US-美国-2-2倍
+      - 🇵🇭 [YouTube哈乐]PH-菲律宾-1-2倍
+      - _49
+      - 🇺🇲 [YouTube哈乐a]US-美国-3-2倍
+      - 🇺🇲 [YouTube哈乐a]US-美国-1-2倍
+      - 🇨🇳CN_284
+      - 🇭🇰HK_433
+      - _73
+      - 🇨🇳CN_277
+      - v2cross.com_15
+      - 🇫🇷FR_401
+      - v2cross.com_16
+      - 🇺🇸_US_电报频道： @pjrjzy_2
+      - v2cross.com_17
+      - 🇭🇰HK_435
+      - _64
+      - 🇺🇸_US_美国_15
+      - 🇦🇺AU_205
+      - 🇺🇸US_1172
+      - 🇵🇭 [YouTube哈乐a]PH-菲律宾-1-2倍
+      - 🇿🇦ZA_1203
+      - _155
+      - 🇨🇳_CN_电报频道： @pjrjzy_3
+      - _88
+      - 🇺🇸US_1191
+      - 🇹🇼TW_673
+      - 🇯🇵 [YouTube哈乐]JP-日本-1-2倍
+      - 🇨🇳_CN_中国->🇭🇰_HK_香港_2
+      - 🇨🇦CA_258
+      - 🇯🇵 [YouTube哈乐]JP-日本-3-2倍
+      - 🇻🇳 [YouTube哈乐a]VN-越南-1-2倍
+      - 🇯🇵 [YouTube哈乐]JP-日本-2-2倍
+      - 🇭🇰_HK_香港
+      - v2cross.com_18
+      - 🇯🇵 [YouTube哈乐a]JP-日本-3-2倍
+      - 🇯🇵 [YouTube哈乐a]JP-日本-1-2倍
+      - 🇯🇵 [YouTube哈乐]JP-日本-4-2倍
+      - 🇫🇷FR_402
+      - 🇸🇬SG_661
+      - 🇯🇵 [YouTube哈乐a]JP-日本-2-2倍
+      - 🇯🇵 [YouTube哈乐a]JP-日本-4-2倍
+      - 🇺🇸_US_美国_16
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_1
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_2
+      - 🇸🇬SG_663
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_3
+      - 🇺🇸US_1185
+      - 🇭🇰HK_442
+      - 🇺🇸_US_电报频道： @pjrjzy_3
+      - 🇨🇳CN_280
+      - 🇨🇳_CN_电报频道： @pjrjzy_4
+      - _97
+      - 🇺🇸US_1157
+      - 🇨🇳_CN_电报频道： @pjrjzy_5
+      - 🇺🇸_US_jichangvpn.cloud
+      - 电信一区(广东)
+      - 🇭🇰 [YouTube哈乐a]HK-香港-5-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-9-2倍
+      - 🇺🇸US_1193
+      - 🇸🇬 [YouTube哈乐a]SGP-新加坡-2-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-A-2倍
+      - 🇸🇬SG_662
+      - 🇺🇸_US_电报频道： @pjrjzy_4
+      - 🇭🇰 [YouTube哈乐]HK-香港-3-2倍
+      - v2cross.com_19
+      - 🇭🇰 [YouTube哈乐]HK-香港-2-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-5-2倍
+      - 🇺🇸US_1169
+      - v2cross.com_20
+      - 🇨🇦CA_267
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-3-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-6-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-7-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-4-2倍
+      - 🇸🇬SG_657
+      - 🇺🇸US_1155
+      - 中国-2.81MB/s(Youtube:不良林)
+      - 🇸🇬SG_660
+      - 中国-2.83MB/s(Youtube:不良林)
+      - 🇭🇰 [YouTube哈乐]HK-香港-8-2倍
+      - 🏁ZZ_1306
+      - 🏁ZZ_1304
+      - 🇭🇰 [YouTube哈乐a]HK-香港-1-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-9-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-1-2倍
+      - 🏁ZZ_1305
+      - 🇭🇰 [YouTube哈乐]HK-香港-A-2倍
+      - 🇺🇸US_1056
+      - 🏁ZZ_1303
+      - 🇰🇷KR_466
+      - 🇬🇧 [YouTube哈乐a]UK-英国-1-2倍
+      - 🇬🇧 [YouTube哈乐]UK-英国-1-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-2-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-1-2倍
+      - 🇬🇧 [YouTube哈乐]UK-英国-2-2倍
+      - 🇬🇧 [YouTube哈乐a]UK-英国-2-2倍
+      - 中国-4.85MB/s(Youtube:不良林)
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
       - 🇭🇰 [YouTube哈乐a]HK-香港-8-2倍
+      - 🇸🇬 [YouTube哈乐]SGP-新加坡-1-2倍
+      - 🇯🇵JP_460
+      - 🇨🇦CA_268
+      - 🇹🇼 [YouTube哈乐]TW-台湾-6-2倍
+      - 🇺🇸US_1175
+      - 🇹🇼 [YouTube哈乐]TW-台湾-3-2倍
+      - 🇸🇬 [YouTube哈乐]SGP-新加坡-2-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-2-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-1-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-4-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-7-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-3-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-6-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-5-2倍
+      - 🇺🇸US_1187
+      - 🇺🇸US_1186
+      - 🇧🇷 [YouTube哈乐]BR-巴西-1-2倍
+      - 🇺🇸US_1190
+      - 🇦🇷 [YouTube哈乐]AR-阿根廷-1-2倍
+      - 🇦🇷 [YouTube哈乐a]AR-阿根廷-1-2倍
+      - 🇧🇷 [YouTube哈乐a]BR-巴西-1-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-4-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-5-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-4-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-2-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-6-2倍
+      - 🇨🇿CZ_285
+      - 塞尔维亚
+      - 🇺🇦UA_674
+      - _180
+      - 🇸🇬 [YouTube哈乐a]SGP-新加坡-1-2倍
+      - _134
+      - 🇺🇸_US_美国_1
+      - 🇭🇰_HK_香港->🇺🇸_US_美国_1
+      - v2cross.com_1
+      - 🇭🇰_HK_香港->🇺🇸_US_美国_2
+      - _46
+      - v2cross.com_2
+      - _14
+      - 🇺🇸US_1153
+      - 🇨🇳_CN_中国->🇭🇰_HK_香港_1
+      - 🏁ZZ_1300
+      - 🏁ZZ_1301
+      - 🇺🇸US_1008
+      - 🇨🇦CA_238
+      - 美国+V2CROSS.COM
+      - 🇺🇸US_1170
+      - 🏁ZZ_1302
+      - 🇺🇸US_1051
+      - 🇺🇸US_1030
+      - v2cross.com_3
+      - 🏁ZZ_1299
+      - 🇺🇸US_1048
+      - 🇺🇸_US_美国_2
+      - 🇺🇸US_1022
+      - 🇺🇸US_1159
+      - v2cross.com_4
+      - 🇨🇳_CN_电报频道： @pjrjzy_1
+      - 🇺🇸US_970
+      - 🇺🇸US_1023
+      - 🇺🇸_US_美国_3
+      - 🇷🇺 [YouTube哈乐a]RU-俄罗斯-1-2倍
+      - 🇺🇸US_979
+      - 🇺🇸US_1024
+      - 🇺🇸_US_美国_4
+      - 🇺🇸US_1137
+      - 🇺🇸_US_电报频道： @pjrjzy_1
+      - v2cross.com_5
+      - 🇺🇸US_994
+      - 🇺🇸US_1052
+      - 🇺🇸US_1083
+      - 🇷🇺 [YouTube哈乐]RU-俄罗斯-1-2倍
+      - 🇹🇷 [YouTube哈乐a]TR-土耳其-1-2倍
+      - 🇺🇸US_1179
+      - 🇺🇸US_989
+      - v2cross.com_6
+      - 🇹🇷 [YouTube哈乐]TR-土耳其-1-2倍
+      - 🇺🇸_US_美国_5
+      - 🇺🇸US_1049
+      - v2cross.com_7
+      - 🇺🇸_US_美国_6
+      - 🇺🇸US_1062
+      - v2cross.com_8
+      - 🇺🇸US_1033
+      - v2cross.com_9
+      - 🇺🇸US_1039
+      - 🇺🇸_US_美国_7
+      - v2cross.com_10
+      - 🇺🇸US_1037
+      - 🇺🇸US_1063
+      - v2cross.com_11
+      - 🇺🇸_US_美国_8
+      - v2cross.com_12
+      - 🇨🇳CN_282
+      - _192
+      - 🇺🇸US_1164
+      - 🇺🇸US_1032
+      - 🇺🇸_US_美国_9
+      - 🇺🇸US_1125
+      - 🇺🇸_US_美国_10
+      - v2cross.com_13
+      - 🇷🇺+RU_633
+      - 🇺🇸US_1025
+      - 日本东京C
+      - 🇺🇸US_997
+      - v2cross.com_14
+      - 🇺🇸US_995
+      - 🇨🇳_CN_电报频道： @pjrjzy_2
+      - 🇫🇷 [YouTube哈乐]FR-法国-1-2倍
+      - 🇳🇱NL_613
+      - 美国 V2CROSS.COM
+      - 🇺🇸US_1009
+      - 🇺🇸_US_美国_11
+      - 🇺🇲 [YouTube哈乐]US-美国-3-2倍
+      - 🇺🇸US_1080
+      - _91
+      - 🇩🇪 [YouTube哈乐a]DE-德国-1-2倍
+      - 🇺🇲 [YouTube哈乐]US-美国-2-2倍
+      - 🇺🇸US_998
+      - 🇺🇸_US_美国_12
+      - 🇺🇲 [YouTube哈乐]US-美国-1-2倍
+      - 🇺🇲 [YouTube哈乐a]US-美国-4-2倍
+      - 🇰🇷 [YouTube哈乐a]KR-韩国-1-2倍
+      - _151
+      - _31
+      - 🇰🇷 [YouTube哈乐a]KR-韩国-2-2倍
+      - 🇯🇵_JP_jichangvpn.cloud
+      - _55
+      - 🇺🇸_US_美国_13
+      - 🇫🇷 [YouTube哈乐a]FR-法国-1-2倍
+      - 中国-2.37MB/s(Youtube:不良林)
+      - 🇺🇸_US_美国_14
+      - _69
+      - 🇺🇲 [YouTube哈乐a]US-美国-2-2倍
+      - 🇵🇭 [YouTube哈乐]PH-菲律宾-1-2倍
+      - _49
+      - 🇺🇲 [YouTube哈乐a]US-美国-3-2倍
+      - 🇺🇲 [YouTube哈乐a]US-美国-1-2倍
+      - 🇨🇳CN_284
+      - 🇭🇰HK_433
+      - _73
+      - 🇨🇳CN_277
+      - v2cross.com_15
+      - 🇫🇷FR_401
+      - v2cross.com_16
+      - 🇺🇸_US_电报频道： @pjrjzy_2
+      - v2cross.com_17
+      - 🇭🇰HK_435
+      - _64
+      - 🇺🇸_US_美国_15
+      - 🇦🇺AU_205
+      - 🇺🇸US_1172
+      - 🇵🇭 [YouTube哈乐a]PH-菲律宾-1-2倍
+      - 🇿🇦ZA_1203
+      - _155
+      - 🇨🇳_CN_电报频道： @pjrjzy_3
+      - _88
+      - 🇺🇸US_1191
+      - 🇹🇼TW_673
+      - 🇯🇵 [YouTube哈乐]JP-日本-1-2倍
+      - 🇨🇳_CN_中国->🇭🇰_HK_香港_2
+      - 🇨🇦CA_258
+      - 🇯🇵 [YouTube哈乐]JP-日本-3-2倍
+      - 🇻🇳 [YouTube哈乐a]VN-越南-1-2倍
+      - 🇯🇵 [YouTube哈乐]JP-日本-2-2倍
+      - 🇭🇰_HK_香港
+      - v2cross.com_18
+      - 🇯🇵 [YouTube哈乐a]JP-日本-3-2倍
+      - 🇯🇵 [YouTube哈乐a]JP-日本-1-2倍
+      - 🇯🇵 [YouTube哈乐]JP-日本-4-2倍
+      - 🇫🇷FR_402
+      - 🇸🇬SG_661
+      - 🇯🇵 [YouTube哈乐a]JP-日本-2-2倍
+      - 🇯🇵 [YouTube哈乐a]JP-日本-4-2倍
+      - 🇺🇸_US_美国_16
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_1
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_2
+      - 🇸🇬SG_663
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_3
+      - 🇺🇸US_1185
+      - 🇭🇰HK_442
+      - 🇺🇸_US_电报频道： @pjrjzy_3
+      - 🇨🇳CN_280
+      - 🇨🇳_CN_电报频道： @pjrjzy_4
+      - _97
+      - 🇺🇸US_1157
+      - 🇨🇳_CN_电报频道： @pjrjzy_5
+      - 🇺🇸_US_jichangvpn.cloud
+      - 电信一区(广东)
+      - 🇭🇰 [YouTube哈乐a]HK-香港-5-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-9-2倍
+      - 🇺🇸US_1193
+      - 🇸🇬 [YouTube哈乐a]SGP-新加坡-2-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-A-2倍
+      - 🇸🇬SG_662
+      - 🇺🇸_US_电报频道： @pjrjzy_4
+      - 🇭🇰 [YouTube哈乐]HK-香港-3-2倍
+      - v2cross.com_19
+      - 🇭🇰 [YouTube哈乐]HK-香港-2-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-5-2倍
+      - 🇺🇸US_1169
+      - v2cross.com_20
+      - 🇨🇦CA_267
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-3-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-6-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-7-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-4-2倍
+      - 🇸🇬SG_657
+      - 🇺🇸US_1155
+      - 中国-2.81MB/s(Youtube:不良林)
+      - 🇸🇬SG_660
+      - 中国-2.83MB/s(Youtube:不良林)
+      - 🇭🇰 [YouTube哈乐]HK-香港-8-2倍
+      - 🏁ZZ_1306
+      - 🏁ZZ_1304
+      - 🇭🇰 [YouTube哈乐a]HK-香港-1-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-9-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-1-2倍
+      - 🏁ZZ_1305
+      - 🇭🇰 [YouTube哈乐]HK-香港-A-2倍
+      - 🇺🇸US_1056
+      - 🏁ZZ_1303
+      - 🇰🇷KR_466
+      - 🇬🇧 [YouTube哈乐a]UK-英国-1-2倍
+      - 🇬🇧 [YouTube哈乐]UK-英国-1-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-2-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-1-2倍
+      - 🇬🇧 [YouTube哈乐]UK-英国-2-2倍
+      - 🇬🇧 [YouTube哈乐a]UK-英国-2-2倍
+      - 中国-4.85MB/s(Youtube:不良林)
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 🇭🇰 [YouTube哈乐a]HK-香港-8-2倍
+      - 🇸🇬 [YouTube哈乐]SGP-新加坡-1-2倍
+      - 🇯🇵JP_460
+      - 🇨🇦CA_268
+      - 🇹🇼 [YouTube哈乐]TW-台湾-6-2倍
+      - 🇺🇸US_1175
+      - 🇹🇼 [YouTube哈乐]TW-台湾-3-2倍
+      - 🇸🇬 [YouTube哈乐]SGP-新加坡-2-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-2-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-1-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-4-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-7-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-3-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-6-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-5-2倍
+      - 🇺🇸US_1187
+      - 🇺🇸US_1186
+      - 🇧🇷 [YouTube哈乐]BR-巴西-1-2倍
+      - 🇺🇸US_1190
+      - 🇦🇷 [YouTube哈乐]AR-阿根廷-1-2倍
+      - 🇦🇷 [YouTube哈乐a]AR-阿根廷-1-2倍
+      - 🇧🇷 [YouTube哈乐a]BR-巴西-1-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-4-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-5-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-4-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-2-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-6-2倍
+      - 🇨🇿CZ_285
+      - 塞尔维亚
+      - 🇺🇦UA_674
+      - _180
+      - 🇸🇬 [YouTube哈乐a]SGP-新加坡-1-2倍
+      - _134
+      - 🇺🇸_US_美国_1
+      - 🇭🇰_HK_香港->🇺🇸_US_美国_1
+      - v2cross.com_1
+      - 🇭🇰_HK_香港->🇺🇸_US_美国_2
+      - _46
+      - v2cross.com_2
+      - _14
+      - 🇺🇸US_1153
+      - 🇨🇳_CN_中国->🇭🇰_HK_香港_1
+      - 🏁ZZ_1300
+      - 🏁ZZ_1301
+      - 🇺🇸US_1008
+      - 🇨🇦CA_238
+      - 美国+V2CROSS.COM
+      - 🇺🇸US_1170
+      - 🏁ZZ_1302
+      - 🇺🇸US_1051
+      - 🇺🇸US_1030
+      - v2cross.com_3
+      - 🏁ZZ_1299
+      - 🇺🇸US_1048
+      - 🇺🇸_US_美国_2
+      - 🇺🇸US_1022
+      - 🇺🇸US_1159
+      - v2cross.com_4
+      - 🇨🇳_CN_电报频道： @pjrjzy_1
+      - 🇺🇸US_970
+      - 🇺🇸US_1023
+      - 🇺🇸_US_美国_3
+      - 🇷🇺 [YouTube哈乐a]RU-俄罗斯-1-2倍
+      - 🇺🇸US_979
+      - 🇺🇸US_1024
+      - 🇺🇸_US_美国_4
+      - 🇺🇸US_1137
+      - 🇺🇸_US_电报频道： @pjrjzy_1
+      - v2cross.com_5
+      - 🇺🇸US_994
+      - 🇺🇸US_1052
+      - 🇺🇸US_1083
+      - 🇷🇺 [YouTube哈乐]RU-俄罗斯-1-2倍
+      - 🇹🇷 [YouTube哈乐a]TR-土耳其-1-2倍
+      - 🇺🇸US_1179
+      - 🇺🇸US_989
+      - v2cross.com_6
+      - 🇹🇷 [YouTube哈乐]TR-土耳其-1-2倍
+      - 🇺🇸_US_美国_5
+      - 🇺🇸US_1049
+      - v2cross.com_7
+      - 🇺🇸_US_美国_6
+      - 🇺🇸US_1062
+      - v2cross.com_8
+      - 🇺🇸US_1033
+      - v2cross.com_9
+      - 🇺🇸US_1039
+      - 🇺🇸_US_美国_7
+      - v2cross.com_10
+      - 🇺🇸US_1037
+      - 🇺🇸US_1063
+      - v2cross.com_11
+      - 🇺🇸_US_美国_8
+      - v2cross.com_12
+      - 🇨🇳CN_282
+      - _192
+      - 🇺🇸US_1164
+      - 🇺🇸US_1032
+      - 🇺🇸_US_美国_9
+      - 🇺🇸US_1125
+      - 🇺🇸_US_美国_10
+      - v2cross.com_13
+      - 🇷🇺+RU_633
+      - 🇺🇸US_1025
+      - 日本东京C
+      - 🇺🇸US_997
+      - v2cross.com_14
+      - 🇺🇸US_995
+      - 🇨🇳_CN_电报频道： @pjrjzy_2
+      - 🇫🇷 [YouTube哈乐]FR-法国-1-2倍
+      - 🇳🇱NL_613
+      - 美国 V2CROSS.COM
+      - 🇺🇸US_1009
+      - 🇺🇸_US_美国_11
+      - 🇺🇲 [YouTube哈乐]US-美国-3-2倍
+      - 🇺🇸US_1080
+      - _91
+      - 🇩🇪 [YouTube哈乐a]DE-德国-1-2倍
+      - 🇺🇲 [YouTube哈乐]US-美国-2-2倍
+      - 🇺🇸US_998
+      - 🇺🇸_US_美国_12
+      - 🇺🇲 [YouTube哈乐]US-美国-1-2倍
+      - 🇺🇲 [YouTube哈乐a]US-美国-4-2倍
+      - 🇰🇷 [YouTube哈乐a]KR-韩国-1-2倍
+      - _151
+      - _31
+      - 🇰🇷 [YouTube哈乐a]KR-韩国-2-2倍
+      - 🇯🇵_JP_jichangvpn.cloud
+      - _55
+      - 🇺🇸_US_美国_13
+      - 🇫🇷 [YouTube哈乐a]FR-法国-1-2倍
+      - 中国-2.37MB/s(Youtube:不良林)
+      - 🇺🇸_US_美国_14
+      - _69
+      - 🇺🇲 [YouTube哈乐a]US-美国-2-2倍
+      - 🇵🇭 [YouTube哈乐]PH-菲律宾-1-2倍
+      - _49
+      - 🇺🇲 [YouTube哈乐a]US-美国-3-2倍
+      - 🇺🇲 [YouTube哈乐a]US-美国-1-2倍
+      - 🇨🇳CN_284
+      - 🇭🇰HK_433
+      - _73
+      - 🇨🇳CN_277
+      - v2cross.com_15
+      - 🇫🇷FR_401
+      - v2cross.com_16
+      - 🇺🇸_US_电报频道： @pjrjzy_2
+      - v2cross.com_17
+      - 🇭🇰HK_435
+      - _64
+      - 🇺🇸_US_美国_15
+      - 🇦🇺AU_205
+      - 🇺🇸US_1172
+      - 🇵🇭 [YouTube哈乐a]PH-菲律宾-1-2倍
+      - 🇿🇦ZA_1203
+      - _155
+      - 🇨🇳_CN_电报频道： @pjrjzy_3
+      - _88
+      - 🇺🇸US_1191
+      - 🇹🇼TW_673
+      - 🇯🇵 [YouTube哈乐]JP-日本-1-2倍
+      - 🇨🇳_CN_中国->🇭🇰_HK_香港_2
+      - 🇨🇦CA_258
+      - 🇯🇵 [YouTube哈乐]JP-日本-3-2倍
+      - 🇻🇳 [YouTube哈乐a]VN-越南-1-2倍
+      - 🇯🇵 [YouTube哈乐]JP-日本-2-2倍
+      - 🇭🇰_HK_香港
+      - v2cross.com_18
+      - 🇯🇵 [YouTube哈乐a]JP-日本-3-2倍
+      - 🇯🇵 [YouTube哈乐a]JP-日本-1-2倍
+      - 🇯🇵 [YouTube哈乐]JP-日本-4-2倍
+      - 🇫🇷FR_402
+      - 🇸🇬SG_661
+      - 🇯🇵 [YouTube哈乐a]JP-日本-2-2倍
+      - 🇯🇵 [YouTube哈乐a]JP-日本-4-2倍
+      - 🇺🇸_US_美国_16
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_1
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_2
+      - 🇸🇬SG_663
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_3
+      - 🇺🇸US_1185
+      - 🇭🇰HK_442
+      - 🇺🇸_US_电报频道： @pjrjzy_3
+      - 🇨🇳CN_280
+      - 🇨🇳_CN_电报频道： @pjrjzy_4
+      - _97
+      - 🇺🇸US_1157
+      - 🇨🇳_CN_电报频道： @pjrjzy_5
+      - 🇺🇸_US_jichangvpn.cloud
+      - 电信一区(广东)
+      - 🇭🇰 [YouTube哈乐a]HK-香港-5-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-9-2倍
+      - 🇺🇸US_1193
+      - 🇸🇬 [YouTube哈乐a]SGP-新加坡-2-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-A-2倍
+      - 🇸🇬SG_662
+      - 🇺🇸_US_电报频道： @pjrjzy_4
+      - 🇭🇰 [YouTube哈乐]HK-香港-3-2倍
+      - v2cross.com_19
+      - 🇭🇰 [YouTube哈乐]HK-香港-2-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-5-2倍
+      - 🇺🇸US_1169
+      - v2cross.com_20
+      - 🇨🇦CA_267
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-3-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-6-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-7-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-4-2倍
+      - 🇸🇬SG_657
+      - 🇺🇸US_1155
+      - 中国-2.81MB/s(Youtube:不良林)
+      - 🇸🇬SG_660
+      - 中国-2.83MB/s(Youtube:不良林)
+      - 🇭🇰 [YouTube哈乐]HK-香港-8-2倍
+      - 🏁ZZ_1306
+      - 🏁ZZ_1304
+      - 🇭🇰 [YouTube哈乐a]HK-香港-1-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-9-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-1-2倍
+      - 🏁ZZ_1305
+      - 🇭🇰 [YouTube哈乐]HK-香港-A-2倍
+      - 🇺🇸US_1056
+      - 🏁ZZ_1303
+      - 🇰🇷KR_466
+      - 🇬🇧 [YouTube哈乐a]UK-英国-1-2倍
+      - 🇬🇧 [YouTube哈乐]UK-英国-1-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-2-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-1-2倍
+      - 🇬🇧 [YouTube哈乐]UK-英国-2-2倍
+      - 🇬🇧 [YouTube哈乐a]UK-英国-2-2倍
+      - 中国-4.85MB/s(Youtube:不良林)
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -84,6 +1694,236 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇭🇰 [YouTube哈乐a]HK-香港-8-2倍
+      - 🇸🇬 [YouTube哈乐]SGP-新加坡-1-2倍
+      - 🇯🇵JP_460
+      - 🇨🇦CA_268
+      - 🇹🇼 [YouTube哈乐]TW-台湾-6-2倍
+      - 🇺🇸US_1175
+      - 🇹🇼 [YouTube哈乐]TW-台湾-3-2倍
+      - 🇸🇬 [YouTube哈乐]SGP-新加坡-2-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-2-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-1-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-4-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-7-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-3-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-6-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-5-2倍
+      - 🇺🇸US_1187
+      - 🇺🇸US_1186
+      - 🇧🇷 [YouTube哈乐]BR-巴西-1-2倍
+      - 🇺🇸US_1190
+      - 🇦🇷 [YouTube哈乐]AR-阿根廷-1-2倍
+      - 🇦🇷 [YouTube哈乐a]AR-阿根廷-1-2倍
+      - 🇧🇷 [YouTube哈乐a]BR-巴西-1-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-4-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-5-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-4-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-2-2倍
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-6-2倍
+      - 🇨🇿CZ_285
+      - 塞尔维亚
+      - 🇺🇦UA_674
+      - _180
+      - 🇸🇬 [YouTube哈乐a]SGP-新加坡-1-2倍
+      - _134
+      - 🇺🇸_US_美国_1
+      - 🇭🇰_HK_香港->🇺🇸_US_美国_1
+      - v2cross.com_1
+      - 🇭🇰_HK_香港->🇺🇸_US_美国_2
+      - _46
+      - v2cross.com_2
+      - _14
+      - 🇺🇸US_1153
+      - 🇨🇳_CN_中国->🇭🇰_HK_香港_1
+      - 🏁ZZ_1300
+      - 🏁ZZ_1301
+      - 🇺🇸US_1008
+      - 🇨🇦CA_238
+      - 美国+V2CROSS.COM
+      - 🇺🇸US_1170
+      - 🏁ZZ_1302
+      - 🇺🇸US_1051
+      - 🇺🇸US_1030
+      - v2cross.com_3
+      - 🏁ZZ_1299
+      - 🇺🇸US_1048
+      - 🇺🇸_US_美国_2
+      - 🇺🇸US_1022
+      - 🇺🇸US_1159
+      - v2cross.com_4
+      - 🇨🇳_CN_电报频道： @pjrjzy_1
+      - 🇺🇸US_970
+      - 🇺🇸US_1023
+      - 🇺🇸_US_美国_3
+      - 🇷🇺 [YouTube哈乐a]RU-俄罗斯-1-2倍
+      - 🇺🇸US_979
+      - 🇺🇸US_1024
+      - 🇺🇸_US_美国_4
+      - 🇺🇸US_1137
+      - 🇺🇸_US_电报频道： @pjrjzy_1
+      - v2cross.com_5
+      - 🇺🇸US_994
+      - 🇺🇸US_1052
+      - 🇺🇸US_1083
+      - 🇷🇺 [YouTube哈乐]RU-俄罗斯-1-2倍
+      - 🇹🇷 [YouTube哈乐a]TR-土耳其-1-2倍
+      - 🇺🇸US_1179
+      - 🇺🇸US_989
+      - v2cross.com_6
+      - 🇹🇷 [YouTube哈乐]TR-土耳其-1-2倍
+      - 🇺🇸_US_美国_5
+      - 🇺🇸US_1049
+      - v2cross.com_7
+      - 🇺🇸_US_美国_6
+      - 🇺🇸US_1062
+      - v2cross.com_8
+      - 🇺🇸US_1033
+      - v2cross.com_9
+      - 🇺🇸US_1039
+      - 🇺🇸_US_美国_7
+      - v2cross.com_10
+      - 🇺🇸US_1037
+      - 🇺🇸US_1063
+      - v2cross.com_11
+      - 🇺🇸_US_美国_8
+      - v2cross.com_12
+      - 🇨🇳CN_282
+      - _192
+      - 🇺🇸US_1164
+      - 🇺🇸US_1032
+      - 🇺🇸_US_美国_9
+      - 🇺🇸US_1125
+      - 🇺🇸_US_美国_10
+      - v2cross.com_13
+      - 🇷🇺+RU_633
+      - 🇺🇸US_1025
+      - 日本东京C
+      - 🇺🇸US_997
+      - v2cross.com_14
+      - 🇺🇸US_995
+      - 🇨🇳_CN_电报频道： @pjrjzy_2
+      - 🇫🇷 [YouTube哈乐]FR-法国-1-2倍
+      - 🇳🇱NL_613
+      - 美国 V2CROSS.COM
+      - 🇺🇸US_1009
+      - 🇺🇸_US_美国_11
+      - 🇺🇲 [YouTube哈乐]US-美国-3-2倍
+      - 🇺🇸US_1080
+      - _91
+      - 🇩🇪 [YouTube哈乐a]DE-德国-1-2倍
+      - 🇺🇲 [YouTube哈乐]US-美国-2-2倍
+      - 🇺🇸US_998
+      - 🇺🇸_US_美国_12
+      - 🇺🇲 [YouTube哈乐]US-美国-1-2倍
+      - 🇺🇲 [YouTube哈乐a]US-美国-4-2倍
+      - 🇰🇷 [YouTube哈乐a]KR-韩国-1-2倍
+      - _151
+      - _31
+      - 🇰🇷 [YouTube哈乐a]KR-韩国-2-2倍
+      - 🇯🇵_JP_jichangvpn.cloud
+      - _55
+      - 🇺🇸_US_美国_13
+      - 🇫🇷 [YouTube哈乐a]FR-法国-1-2倍
+      - 中国-2.37MB/s(Youtube:不良林)
+      - 🇺🇸_US_美国_14
+      - _69
+      - 🇺🇲 [YouTube哈乐a]US-美国-2-2倍
+      - 🇵🇭 [YouTube哈乐]PH-菲律宾-1-2倍
+      - _49
+      - 🇺🇲 [YouTube哈乐a]US-美国-3-2倍
+      - 🇺🇲 [YouTube哈乐a]US-美国-1-2倍
+      - 🇨🇳CN_284
+      - 🇭🇰HK_433
+      - _73
+      - 🇨🇳CN_277
+      - v2cross.com_15
+      - 🇫🇷FR_401
+      - v2cross.com_16
+      - 🇺🇸_US_电报频道： @pjrjzy_2
+      - v2cross.com_17
+      - 🇭🇰HK_435
+      - _64
+      - 🇺🇸_US_美国_15
+      - 🇦🇺AU_205
+      - 🇺🇸US_1172
+      - 🇵🇭 [YouTube哈乐a]PH-菲律宾-1-2倍
+      - 🇿🇦ZA_1203
+      - _155
+      - 🇨🇳_CN_电报频道： @pjrjzy_3
+      - _88
+      - 🇺🇸US_1191
+      - 🇹🇼TW_673
+      - 🇯🇵 [YouTube哈乐]JP-日本-1-2倍
+      - 🇨🇳_CN_中国->🇭🇰_HK_香港_2
+      - 🇨🇦CA_258
+      - 🇯🇵 [YouTube哈乐]JP-日本-3-2倍
+      - 🇻🇳 [YouTube哈乐a]VN-越南-1-2倍
+      - 🇯🇵 [YouTube哈乐]JP-日本-2-2倍
+      - 🇭🇰_HK_香港
+      - v2cross.com_18
+      - 🇯🇵 [YouTube哈乐a]JP-日本-3-2倍
+      - 🇯🇵 [YouTube哈乐a]JP-日本-1-2倍
+      - 🇯🇵 [YouTube哈乐]JP-日本-4-2倍
+      - 🇫🇷FR_402
+      - 🇸🇬SG_661
+      - 🇯🇵 [YouTube哈乐a]JP-日本-2-2倍
+      - 🇯🇵 [YouTube哈乐a]JP-日本-4-2倍
+      - 🇺🇸_US_美国_16
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_1
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_2
+      - 🇸🇬SG_663
+      - 🇺🇸_US_美国->🇬🇧_GB_英国_3
+      - 🇺🇸US_1185
+      - 🇭🇰HK_442
+      - 🇺🇸_US_电报频道： @pjrjzy_3
+      - 🇨🇳CN_280
+      - 🇨🇳_CN_电报频道： @pjrjzy_4
+      - _97
+      - 🇺🇸US_1157
+      - 🇨🇳_CN_电报频道： @pjrjzy_5
+      - 🇺🇸_US_jichangvpn.cloud
+      - 电信一区(广东)
+      - 🇭🇰 [YouTube哈乐a]HK-香港-5-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-9-2倍
+      - 🇺🇸US_1193
+      - 🇸🇬 [YouTube哈乐a]SGP-新加坡-2-2倍
+      - 🇭🇰 [YouTube哈乐a]HK-香港-A-2倍
+      - 🇸🇬SG_662
+      - 🇺🇸_US_电报频道： @pjrjzy_4
+      - 🇭🇰 [YouTube哈乐]HK-香港-3-2倍
+      - v2cross.com_19
+      - 🇭🇰 [YouTube哈乐]HK-香港-2-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-5-2倍
+      - 🇺🇸US_1169
+      - v2cross.com_20
+      - 🇨🇦CA_267
+      - 🇹🇼 [YouTube哈乐a]TW-台湾-3-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-6-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-7-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-4-2倍
+      - 🇸🇬SG_657
+      - 🇺🇸US_1155
+      - 中国-2.81MB/s(Youtube:不良林)
+      - 🇸🇬SG_660
+      - 中国-2.83MB/s(Youtube:不良林)
+      - 🇭🇰 [YouTube哈乐]HK-香港-8-2倍
+      - 🏁ZZ_1306
+      - 🏁ZZ_1304
+      - 🇭🇰 [YouTube哈乐a]HK-香港-1-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-9-2倍
+      - 🇭🇰 [YouTube哈乐]HK-香港-1-2倍
+      - 🏁ZZ_1305
+      - 🇭🇰 [YouTube哈乐]HK-香港-A-2倍
+      - 🇺🇸US_1056
+      - 🏁ZZ_1303
+      - 🇰🇷KR_466
+      - 🇬🇧 [YouTube哈乐a]UK-英国-1-2倍
+      - 🇬🇧 [YouTube哈乐]UK-英国-1-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-2-2倍
+      - 🇹🇼 [YouTube哈乐]TW-台湾-1-2倍
+      - 🇬🇧 [YouTube哈乐]UK-英国-2-2倍
+      - 🇬🇧 [YouTube哈乐a]UK-英国-2-2倍
+      - 中国-4.85MB/s(Youtube:不良林)
 
 rules:
 # 本地/局域网地址
